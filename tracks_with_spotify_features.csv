@@ -1,0 +1,381 @@
+track_id,genre,real_track_id,path,artist,album,title,spotify_track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+1,classical,1,/content/classical/1.mp3,Voices of Music,"Bach and Telemann - Sonatas, Preludes and Fantasias",Trio Sonata in C Major BWV 529-2. Largo (JS Bach),3noCucxyyYHVjoZUcgwFne,0.23,0.0267,1,-23.433,0,0.0511,0.956,0.065,0.103,0.325,72.77
+2,classical,2,/content/classical/2.mp3,Musica Franca,Boismortier - Sonatas for Two Bassoons and Continuo,21 - Sonata No. 2 in G major Op. 50 - Largo ,5PyUN8q3mhhLisP5T1FkoS,0.198,0.0323,2,-26.693,1,0.0398,0.995,0.926,0.118,0.193,108.252
+3,classical,3,/content/classical/3.mp3,Gonzalo X Ruiz,Imported from Italy,Sonata for Violoncello and Basso Continuo in Bb: Allegro - RV 43 (Vivaldi),1Is9g3H5cE1WkrCYRARQr0,0.416,0.109,8,-23.2,0,0.0496,0.965,0.915,0.115,0.686,112.666
+4,classical,4,/content/classical/4.mp3,Ivan Ilic,"Elegance and Refinement - Baroque Suites, French Sweets",Handel- Suite in Fa Major (Adagio),0GxOPfVpmkKNoem5rKurNc,0.343,0.0063,5,-37.414,1,0.0436,0.995,0.967,0.0681,0.221,96.564
+5,classical,5,/content/classical/5.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Intermezzo in B flat Minor Opus 117 No.2 (Johannes Brahms),2hmC0upWZmAkg9ZwSDHD7Q,0.226,0.0293,1,-30.236,1,0.0448,0.994,0.892,0.107,0.0385,87.933
+6,classical,6,/content/classical/6.mp3,Daniel Ben Pienaar,JS Bach - Book 1 CD2 Well-Tempered Clavier,Prelude and Fugue No 13 in F-sharp major,4aYA8f11fOfA375RZdNfCW,0.47,0.163,6,-24.899,1,0.0385,0.995,0.865,0.131,0.927,95.759
+7,classical,7,/content/classical/7.mp3,Voices of Music,"Bach and Telemann - Sonatas, Preludes and Fantasias",Trio Sonata in D minor-1 Allegro (Telemann),15biOfRTqZrfLxe6P1ddoh,0.519,0.116,1,-22.742,0,0.0477,0.974,0.433,0.312,0.428,116.533
+8,classical,8,/content/classical/8.mp3,Edward Martin,Allemande,Suite in C Major-1 Prelude-Johann Gottfried Conradi,3alsYfAMWcYaBOhoxzp5Re,0.407,0.0982,11,-24.18,1,0.0724,0.98,0.914,0.109,0.464,138.125
+9,classical,9,/content/classical/9.mp3,Magnatune Compilation,Romantic Dinner Classical Compilation,Sonnerie - from Handel Trio Sonatas,3bhUaQfHR9l98boGu6Q24a,0.239,0.0867,10,-21.704,0,0.0398,0.881,0.000105,0.161,0.184,92.414
+10,classical,10,/content/classical/10.mp3,Cary Chow,Zirkus - Step Inside - Piano Music of Robert Schumann,Carnaval Opus 9 - Preambule,2Z4XKdoR9IkDSfbmYMc1AN,0.432,0.31,8,-15.067,1,0.0433,0.983,0.878,0.0978,0.187,115.44
+11,classical,11,/content/classical/11.mp3,SCD,Biber Violin Sonatas,"Biber: Sonata 6 in C Minor (from 8 Sonatas, 1681)",0K8yQhQqosSxnqUzgw7QGY,0.283,0.141,11,-17.676,0,0.0413,0.899,0.000317,0.122,0.227,83.461
+12,classical,12,/content/classical/12.mp3,Voices of Music,"Bach and Telemann - Sonatas, Preludes and Fantasias",Trio Sonata in D minor-3. Allegro (Telemann),04cjhGLhlf3NKBGEPl1fEk,0.563,0.0609,1,-23.07,0,0.0426,0.981,0.107,0.118,0.436,94.522
+13,classical,13,/content/classical/13.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In E Major Opus 28,1WcJcEqsyUEeCKhVfj7ZCX,0.469,0.0134,4,-26.023,1,0.0502,0.995,0.916,0.102,0.0357,122.441
+14,classical,14,/content/classical/14.mp3,Ingrid Matthews and Byron Schenkman,CD1-JS Bach-Six Sonatas for Violin and Harpsichord,Sonata No. 2 BWV 1015 - 1. Dolce (J.S. Bach),1YW5gCS7I30eFDSqQClLkL,0.103,0.0466,8,-22.719,1,0.0434,0.886,0.00197,0.0846,0.148,77.854
+15,classical,15,/content/classical/15.mp3,Ingrid Matthews and Byron Schenkman,CD2-JS Bach-Six Sonatas for Violin and Harpsichord,Sonata No. 4 BWV 1017 - 1. Largo (J.S. Bach),6Ggxftkv6OQiqWlueijfAt,0.141,0.101,11,-20.026,0,0.0395,0.861,0.00489,0.111,0.171,75.846
+16,classical,16,/content/classical/16.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In G Minor Opus 28,30M2CvrI43F81Agt6L68pd,0.364,0.261,5,-20.162,0,0.0295,0.994,0.897,0.114,0.661,63.189
+17,classical,17,/content/classical/17.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Intermezzo in E Major Opus 116 No.4 (Johannes Brahms),3ECEXIrTvYxZks4Bwi2dzX,0.337,0.00937,4,-33.585,1,0.0585,0.995,0.892,0.104,0.118,71.412
+18,classical,18,/content/classical/18.mp3,Musica Franca,Boismortier - Sonatas for Two Bassoons and Continuo,22 - Sonata No. 2 in G major Op. 50 - Allemanda (allegro) ,6AbJYp4BOAxSvTHWThxAXX,0.549,0.157,7,-27.819,1,0.0378,0.996,0.928,0.162,0.84,100.312
+19,classical,19,/content/classical/19.mp3,Ralph Rousseau Meulenbroeks,Back with Bach,Sonata BWV 1027 in G major: adagio,2FJqhCF3b1Jrx9LVmmIwKC,0.243,0.0733,6,-26.57,1,0.0353,0.844,0.105,0.11,0.19,87.106
+20,classical,20,/content/classical/20.mp3,Oberlin Consort of Viols,5 and 6 part Fantasies of William Lawes,Set a 5 in C Minor,3tJd0S5eBfoNtZe2xbWA2K,0.102,0.0261,11,-28.194,0,0.0525,0.935,0.82,0.15,0.106,77.81
+22,classical,22,/content/classical/22.mp3,Altri Stromenti,Uccellini,Confitebor (Monteverdi),0cfGs4N60UTK8YJmy4mx0m,0.321,0.04,0,-24.367,1,0.0515,0.985,0.000166,0.0531,0.207,108.865
+23,classical,23,/content/classical/23.mp3,American Bach Soloists,JS Bach Cantatas VI - Favorite Cantatas,Wachet auf ruft uns die Stimme (BWV 140) - Chorus,3cS5Fa7MUtOLIscTD2JCJd,0.424,0.218,2,-20.792,1,0.0365,0.968,0.0898,0.166,0.395,102.738
+24,classical,24,/content/classical/24.mp3,Bezdin Ensemble,Boccherini Fandango Box,Fandango (Luigi Boccherini),5b1vdxJqoVCmdfdg0tRg2M,0.368,0.331,11,-15.444,1,0.0364,0.896,0.276,0.0866,0.128,106.618
+25,classical,25,/content/classical/25.mp3,SCD,Biber Violin Sonatas,"Froberger: Toccata III in C Major, 1656",53bqTstpTJoH7ATnybwJVk,0.295,0.148,11,-25.228,1,0.047,0.835,0.0133,0.143,0.704,125.686
+26,classical,26,/content/classical/26.mp3,American Bach Soloists,JS Bach - Transcriptions of Italian Music,Concerto in A Minor for Four Harpsichords BWV 1065: I Allegro,4lIVZ3B6Kn3BpiCht4FuGh,0.376,0.361,8,-19.909,0,0.0297,0.799,0,0.108,0.822,107.787
+27,classical,27,/content/classical/27.mp3,American Bach Soloists,Joseph Haydn - Masses,Kyrie - Allegro moderato,5qHXDzFau4YsHs8uplrbsI,0.35,0.183,2,-17.413,0,0.0334,0.966,0.454,0.163,0.112,104.921
+28,classical,28,/content/classical/28.mp3,American Baroque,Mozart 4 Quartets for Strings and Winds,Oboe Quartet in F (K370) - Allegro,0MT74goLdNtbBbor5myikR,0.391,0.0929,9,-20.825,0,0.0423,0.965,0.558,0.342,0.333,131.746
+29,classical,29,/content/classical/29.mp3,Altri Stromenti,Italian Music of the 17th Century,La Savorgnana (Giovanni Legrenzi),5sTiGK6oljvejJIVkeGvm4,0.29,0.115,2,-16.963,0,0.0383,0.925,0.049,0.14,0.151,123.855
+30,classical,30,/content/classical/30.mp3,Bezdin Ensemble,Vivaldi Sacred Box,Gloria (Antonio Vivaldi),5Gl66c872rP9JWrJTetGD4,0.274,0.163,2,-19.297,1,0.0415,0.955,0.00796,0.141,0.0882,128.04
+31,classical,31,/content/classical/31.mp3,Briddes Roune,Lenten is come,Lenten is come,1Eh3Jw3vLepRReEhbBPUqU,0.492,0.0205,7,-16.258,0,0.0434,0.992,0.00133,0.109,0.437,132.478
+32,classical,32,/content/classical/32.mp3,Altri Stromenti,Italian Music of the 17th Century,Sonata Prima Detta La Poggia (Marco Uccellini),40q1FR5hnTGTdCzIP4Mzd3,0.285,0.0775,9,-20.364,0,0.0417,0.913,0.000786,0.0968,0.162,103.794
+33,classical,33,/content/classical/33.mp3,Ivan Ilic,"Elegance and Refinement - Baroque Suites, French Sweets",JS Bach: Partita in C minor (Sarabande),342zoYfaXJUsn3YrPND0at,0.306,0.0673,0,-31.896,0,0.0548,0.995,0.884,0.11,0.397,180.848
+34,classical,34,/content/classical/34.mp3,Doc Rossi,Demarzi-6 Sonatas for Cetra o Kitara,Sonata I Sostenuto,16ZNTJAAC45yC2SCTkshVZ,0.615,0.103,11,-24.73,1,0.0539,0.992,0.934,0.0961,0.584,139.075
+35,classical,35,/content/classical/35.mp3,Duo Chambure,Vihuela Duets of Valderrabano,Andreas Christi Sancte Andrea (Cristobal de Morales),6bzAzrOg2Mnik9qa0KiaXH,0.651,0.101,8,-19.241,1,0.051,0.978,0.871,0.108,0.455,96.355
+36,classical,36,/content/classical/36.mp3,Edward Martin and Paul Berget,Baroque Lute Duets,Sonata In C Major (Weiss) - Andante,3BQFGCKyRr5OCLDainTXV5,0.579,0.0793,11,-24.799,1,0.0391,0.907,0.404,0.109,0.302,86.253
+37,classical,37,/content/classical/37.mp3,Edward Martin and William Bastian,Virtues and Vices,Come again: sweet love doth now invite (John Dowland),05FFIgykhFtuVoYxy5iSMc,0.344,0.0958,7,-22.703,1,0.0464,0.954,2.60E-05,0.127,0.302,137.079
+38,classical,38,/content/classical/38.mp3,Edward Martin,Art of the Lute in Renaissance France,Prelude (Phalese),0d6SBWwgSnS1uGLSHZILzQ,0.553,0.0828,7,-23.288,0,0.0495,0.959,0.85,0.0809,0.454,98.119
+39,classical,39,/content/classical/39.mp3,Bezdin Ensemble,Boccherini Fandango Box,Sinfonia in La Maggiore (Luigi Boccherini),1MCtbtBHwKBxS56B8EmvUW,0.397,0.231,9,-16.625,1,0.0444,0.957,0.714,0.109,0.158,122.183
+40,classical,40,/content/classical/40.mp3,Bezdin Ensemble,Si Fossi Foco,If I were wind I would tempest you,3DBjy35Qk2nFQ5fdBdreiN,0.289,0.339,1,-10.48,0,0.0386,0.894,0.49,0.209,0.257,78.177
+41,classical,41,/content/classical/41.mp3,Ensemble Mirable,Conversations Galantes,Sonata III in d minor (Allegro:Moderato),1TnJhPjtKPMGHCh1zZtyss,0.446,0.18,6,-16.552,0,0.0362,0.951,0.000288,0.0876,0.379,76.253
+42,classical,42,/content/classical/42.mp3,Ensemble Mirable,Triemer Six Cello Sonatas,Sonata 1 (Largo),5Fv1v10QCskvJAk1vGID9X,0.164,0.0409,6,-22.926,1,0.0413,0.915,3.83E-06,0.118,0.276,168.152
+43,classical,43,/content/classical/43.mp3,Ensemble Vermillian,Stolen Jewels,Rosenmuller Sonata Teraz a 2 Allegro,1RScV1DNccMvkyy0wHFrzX,0.349,0.205,1,-17.608,0,0.0455,0.874,0.921,0.146,0.448,115.646
+44,classical,44,/content/classical/44.mp3,Altri Stromenti,Italian Music of the 17th Century,Ballo Del Gran Ducca (Giovanni Battista Buonamente),4kG6LyEa5ffkjbg1BAr489,0.278,0.201,0,-17.16,1,0.0394,0.899,0.000271,0.0753,0.418,137.324
+45,classical,45,/content/classical/45.mp3,Gerard Satamian,Dry Fig Trees,Chansons sans paroles (1989) op. 2 Pastorale,1gqOg3La1P3q0X3FMsHcZE,0.218,0.0274,11,-23.213,0,0.0367,0.992,0.719,0.0887,0.0721,172.516
+46,classical,46,/content/classical/46.mp3,Gonzalo X Ruiz,JS Bach - Transcriptions for Oboe,Sonata in C major for oboe and basso continuo after BWV 1035 (adagio ma non tanto),478yZ3EhghZ904UI5cWvzz,0.193,0.0772,6,-21.493,1,0.0447,0.97,0.925,0.339,0.217,82.953
+47,classical,47,/content/classical/47.mp3,Gonzalo X Ruiz,Schumann Romances,Drei Romanzen Op. 94 (Nicht schnell),2EXWMX2c4TWjYERxCVbMn0,0.234,0.0397,9,-27.387,0,0.0332,0.99,0.928,0.109,0.131,143.752
+48,classical,48,/content/classical/48.mp3,Hanneke van Proosdij,Harpsichord suites of Chambonnieres,Suite in d minor - Allemande la Loureuse,7IRVyRWNANnrS7a34Co8Gu,0.31,0.134,0,-28.311,1,0.0376,0.809,0.00495,0.135,0.351,105.326
+49,classical,49,/content/classical/49.mp3,Bezdin Ensemble,Vivaldi Sacred Box,Stabat Mater (Antonio Vivaldi),1zMuOy2UkliKAVZMtGB2ac,0.258,0.268,7,-17.643,0,0.0415,0.725,0.00225,0.107,0.179,95.512
+50,classical,50,/content/classical/50.mp3,Bezdin Ensemble,Si Fossi Foco,If I were fire,2Qvv9ZPVsvglmOdg9E0xDd,0.54,0.647,2,-9.006,1,0.0677,0.691,0.749,0.14,0.152,98.471
+51,classical,51,/content/classical/51.mp3,Jacob Heringman,Josquin des Prez Lute Settings,Anon : Praeter rerum seriem,5B02PJiyIStKXSbFHcbM3V,0.382,0.028,7,-27.892,0,0.0541,0.994,0.934,0.131,0.396,76.461
+52,classical,52,/content/classical/52.mp3,Bezdin Ensemble,Boccherini Fandango Box,La Ritirata Di Madrid (Luigi Boccherini),3fecSKGPdidrgxxnXK90MK,0.391,0.188,2,-15.218,1,0.0452,0.924,0.672,0.11,0.134,109.174
+53,classical,53,/content/classical/53.mp3,Bezdin Ensemble,Si Fossi Foco,If I were pope,7o1TVJEGSS00SySGDPuE52,0.398,0.518,1,-9.611,0,0.035,0.806,4.93E-06,0.247,0.287,120.715
+54,classical,54,/content/classical/54.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Phenix - Allegro,0ru7ppZyya7NVqnpNFBF3u,0.312,0.144,2,-24.732,1,0.0366,0.995,0.868,0.112,0.656,167.665
+55,classical,55,/content/classical/55.mp3,Altri Stromenti,Italian Music of the 17th Century,Avanti Il Quarto Brando (Giovanni Battista Buonamente),5zCFefmkIAQS0mrTGv1TFE,0.315,0.0796,0,-19.112,1,0.0367,0.91,0.00371,0.131,0.312,128.166
+56,classical,56,/content/classical/56.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Les Delices de la Solitude Op. 20 - Sonata I in F major - Aria,1lcVtQke76cGIzgTnzFdpl,0.233,0.0504,5,-24.5,1,0.0367,0.954,0.0172,0.0845,0.229,134.459
+57,classical,57,/content/classical/57.mp3,Bezdin Ensemble,Vivaldi Sacred Box,Magnificat (Antonio Vivaldi),4BrqvRI17dsHRmj6IpV1GM,0.286,0.149,6,-19.988,0,0.0434,0.969,0.00339,0.11,0.0717,125.15
+58,classical,58,/content/classical/58.mp3,Bezdin Ensemble,Si Fossi Foco,If I were emperor,3ecSXt5Y3LOLCToRB4i63p,0.297,0.207,3,-10.702,0,0.0393,0.884,0.529,0.206,0.26,86.014
+59,classical,59,/content/classical/59.mp3,Bezdin Ensemble,Boccherini Fandango Box,Sinfonia In Re Minore (Luigi Boccherini),4pqh9rZuRVVHruSetDHLE3,0.307,0.184,5,-17.597,1,0.0368,0.983,0.625,0.107,0.0707,113.182
+60,classical,60,/content/classical/60.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In B Minor Opus 28,27dNq6LLwOrP91v2i2FO0D,0.383,0.0134,9,-31.778,0,0.0557,0.996,0.799,0.0708,0.0386,126.427
+61,classical,61,/content/classical/61.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Sonata II in D minor - Allegro,2iHH1qVZPw1J1Lf1mifRSt,0.452,0.229,5,-21.557,1,0.0296,0.991,0.955,0.0785,0.828,94.998
+62,classical,62,/content/classical/62.mp3,Janine Johnson,Chopin Recital,Waltz KK IVa no.12 in E major,1f3MVDwSNuqBtMxloyLvvD,0.495,0.106,4,-23.852,1,0.0476,0.993,0.921,0.126,0.675,119.998
+63,classical,63,/content/classical/63.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Intermezzo in E Major Opus 116 No.6 (Johannes Brahms),1Sa03TevW8uKcVieD3LHJ0,0.356,0.0271,4,-27.716,1,0.0496,0.995,0.899,0.0901,0.0665,76.451
+64,classical,64,/content/classical/64.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Sonata III in C major - Fuga da capella,5tY3Nzjutp05g2OleVbthn,0.492,0.271,0,-26.848,1,0.0355,0.996,0.95,0.095,0.907,130.917
+65,classical,65,/content/classical/65.mp3,Janine Johnson,Telemann Harpsichord Solos from Der Getreue Music Meister,Trouble fete (Gorner),3NpNbK1v8O6uU0dQMJgkuz,0.308,0.46,11,-10.307,1,0.0347,0.576,0.0123,0.159,0.896,91.941
+66,classical,66,/content/classical/66.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In C Sharp Minor Opus 28,7KJio7FwXuLrqvmmG1y4Rj,0.445,0.0606,6,-29.517,0,0.0413,0.994,0.785,0.0946,0.707,141.515
+67,classical,67,/content/classical/67.mp3,Altri Stromenti,Italian Music of the 17th Century,Gagliard Seconda (Giovanni Battista Buonamente),376Ex3IlFOpcXelKREEFH7,0.354,0.198,0,-15.702,1,0.0388,0.942,2.29E-05,0.185,0.52,129.764
+68,classical,68,/content/classical/68.mp3,John Fleagle,Worlds Bliss - Medieval Songs of Love and Death,Alysoun,6ozOXbh1k3XBIHL9kzCAxf,0.288,0.0173,7,-25.41,1,0.0417,0.986,0.0189,0.0785,0.152,100.544
+69,classical,69,/content/classical/69.mp3,JungHae Kim,The Virginalists,More Palatino (Jan Pieterszoon Sweelinck),0vHQEJFE8EEfGtwuaQsCE8,0.264,0.536,4,-12.348,1,0.0305,0.948,0.9,0.0705,0.654,107.704
+70,classical,70,/content/classical/70.mp3,Katherine Roberts Perl,JS Bach French Suites,Suite No 4 in E flat major BWV 815: Allemande,7p8SPhxmUJbWZQ37WJBl15,0.149,0.316,1,-19.129,1,0.0363,0.948,0.741,0.0768,0.772,181.806
+71,classical,71,/content/classical/71.mp3,La Primavera,English Renaissance Music,Oxenford (Anon),1eiI9Vgpr7reo0tRULPRpV,0.803,0.222,7,-11.533,1,0.0431,0.655,0.00394,0.07,0.414,117.058
+72,classical,72,/content/classical/72.mp3,Lara St John,Bach Violin Concertos,BWV 1041 : I. Allegro,1ubTqi3QUWWTR82ltF8ZG0,0.574,0.301,9,-14.983,0,0.0388,0.9,0.0183,0.0786,0.583,103.359
+73,classical,73,/content/classical/73.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In C Major Opus 28,1WcJcEqsyUEeCKhVfj7ZCX,0.469,0.0134,4,-26.023,1,0.0502,0.995,0.916,0.102,0.0357,122.441
+74,classical,74,/content/classical/74.mp3,Lara St John,Bach Violin Concertos,BWV 1001 / IV. Presto,1E9BEYNXGE25B4HRNbe38a,0.468,0.178,7,-20.824,0,0.0554,0.993,0.927,0.164,0.959,127.872
+75,classical,75,/content/classical/75.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Romance in B Major Opus 28 No.3 (Robert Schumann),2p07d16xdpMvjTfYJaMho9,0.352,0.0443,11,-25.665,1,0.0378,0.995,0.881,0.0931,0.247,142.352
+76,classical,76,/content/classical/76.mp3,Maryse Carlin,Rameau - Pieces De Clavecin En Concerts - Forqueray Suites 4 and 5,Premier Concert - Coulicam (Rameau),1pjeeQKWoQxXewmBVpHtub,0.29,0.335,11,-22.631,0,0.0375,0.952,0.342,0.0426,0.746,99.562
+77,classical,77,/content/classical/77.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In A Flat Major Opus 28,78LNt4v31eS7gqs3S4O8WZ,0.354,0.085,8,-29.974,1,0.0428,0.995,0.88,0.106,0.0831,113.898
+78,classical,78,/content/classical/78.mp3,Music of the Spheres,Music of the Spheres,Matteis: Ground After the Scotch Humour,70LgM1ANLX30VmZDRYCmFD,0.412,0.296,4,-14.806,1,0.0399,0.72,0,0.121,0.667,69.722
+79,classical,79,/content/classical/79.mp3,Musica Franca,Boismortier - Sonatas for Two Bassoons and Continuo,Sonata No. 1 in E minor Op. 50 - Andante ,5wIdceHrFREUDPGWLYfOSy,0.396,0.162,4,-24.44,0,0.041,0.996,0.927,0.098,0.43,145.811
+80,classical,80,/content/classical/80.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Phenix - Allegro,0ru7ppZyya7NVqnpNFBF3u,0.312,0.144,2,-24.732,1,0.0366,0.995,0.868,0.112,0.656,167.665
+81,classical,81,/content/classical/81.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Sonata IV in B-flat major - Bruit de chasse,27xdEutt3SrBR3LfWoEfAr,0.624,0.397,10,-21.087,1,0.0539,0.995,0.931,0.0717,0.686,103.963
+82,classical,82,/content/classical/82.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Intermezzo in E flat Major Opus 117 No.1 (Johannes Brahms),0cNkTX5z7HF9ZO6IpuHY6t,0.406,0.00699,3,-33.418,1,0.0773,0.996,0.946,0.0803,0.0697,79.031
+83,classical,83,/content/classical/83.mp3,Orinda,Airs de Cour,Ma belle si ton ame (Gilles Durant de la Bergerie),3WvlPjx0LsThdnDOybICr1,0.553,0.0333,11,-26.201,0,0.0478,0.988,0,0.0748,0.314,101.845
+84,classical,84,/content/classical/84.mp3,Paul Beier,Alessandro Piccinini,Toccata XX,6QeNSsgkxDTKOKvIbta9e3,0.324,0.262,6,-13.41,0,0.0428,0.968,0.909,0.0938,0.276,92.037
+85,classical,85,/content/classical/85.mp3,Altri Stromenti,Italian Music of the 17th Century,Aria Nona (Marco Uccellini),2G4PNYSG5MFebgYEkjhV5X,0.367,0.199,2,-16.145,1,0.0486,0.902,0.0034,0.189,0.146,128.727
+86,classical,86,/content/classical/86.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Capriccio in G minor Opus 116 No.3 (Johannes Brahms),31btse2R2Yl3c2Mq0c97Mx,0.308,0.0287,10,-29.394,1,0.053,0.994,0.821,0.169,0.132,63.743
+87,classical,87,/content/classical/87.mp3,Paul Berget,JS Bach on the Lute,Prelude (BWV 996) ,1m1FlZqQxFSaE5IHJyWxpG,0.562,0.136,6,-19.733,0,0.111,0.986,0.831,0.0652,0.378,120.694
+88,classical,88,/content/classical/88.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Chopin Prelude In G Sharp Minor Opus 28,6QigSGaSqn2qSM5pTf5HNG,0.445,0.165,8,-22.962,0,0.0343,0.995,0.89,0.118,0.633,110.036
+89,classical,89,/content/classical/89.mp3,Ivan Ilic,Romantic - Powerful Miniatures by Schumann and Brahms,Romance in F sharp Major Opus 28 No.2 (Robert Schumann),05KYRG87szC4jAgzplWB2O,0.311,0.00536,6,-37.569,1,0.0551,0.996,0.845,0.109,0.195,81.572
+90,classical,90,/content/classical/90.mp3,Phebe Craig and Katherine Westine,Beside Themselves,WF Bach: Concerto in F Major for 2 Harpsichords (Allegro moderato),03Fk519kEz0ys4RzBabHsD,0.263,0.348,4,-16.05,1,0.031,0.756,0.0308,0.202,0.589,134.078
+91,classical,91,/content/classical/91.mp3,Ralph Rousseau Meulenbroeks,Moved By Marais,Prelude: Suite In G Minor: Le Cinquieme Livre De Pieces De Viole (1725),1tDZq6ZP7fKM6rebhQVwhl,0.126,0.0753,6,-23.844,0,0.0365,0.808,0.0351,0.207,0.103,94.723
+92,classical,92,/content/classical/92.mp3,Richard Savino,Legrenzi - Venice Before Vivaldi,Sonata Seconda A Tre - Due Violini E Viola Da Brazzo,1JcAEa0j4ddDkKsAAu72MT,0.172,0.0688,9,-21.055,1,0.0577,0.961,0.00845,0.108,0.18,67.202
+93,classical,93,/content/classical/93.mp3,Richard Savino,Mertz - Bardic Sounds,To Malvina,6elVjmMY7mHLAsf8WI2I29,0.265,0.0255,7,-31.739,1,0.0445,0.995,0.899,0.0981,0.126,97.246
+94,classical,94,/content/classical/94.mp3,Altri Stromenti,Italian Music of the 17th Century,La Maltese (Mauritio Cazzati),0upI0Lh3iOCKAEWUYZljXh,0.327,0.17,9,-19.841,0,0.0384,0.961,0.108,0.158,0.233,134.703
+95,classical,95,/content/classical/95.mp3,Musica Franca,Corrette - Le Phenix - Les Delices de la Solitude,Concerto No. 1 in G major Op. 26 for Organ - Allegro,5dB1DJRRjpMSnjhZzATuJt,0.31,0.228,2,-17.269,1,0.0389,0.968,0.0147,0.103,0.652,177.029
+96,classical,96,/content/classical/96.mp3,Seth Carlin,Mozart in the Age of Enlightenment,Sonata in G major - Allegro (Juliane Reichardt),7kuY7DRyd46M59u8FpdXdJ,0.378,0.0918,6,-27.796,1,0.0388,0.99,0.86,0.108,0.573,128.412
+97,classical,97,/content/classical/97.mp3,Ivan Ilic,Fugitive Visions - Piano Masterworks by Chopin and Liszt,Liszt Variations On A Theme By Bach 'Weinen Klagen',0GBNI4bZ55xvt1lhN3YHOz,0.317,0.0717,1,-23.796,1,0.0444,0.985,0.888,0.0913,0.0378,78.178
+98,classical,98,/content/classical/98.mp3,Altri Stromenti,Italian Music of the 17th Century,La Moneverda (Tarquinio Merula),0wVHTVgJf0uAjxVYx1o7l7,0.331,0.0582,5,-22.233,1,0.0478,0.961,0.000387,0.102,0.222,146.133
+99,classical,99,/content/classical/99.mp3,Telemann Trio Berlin,Telemann Trio Berlin,Triosonate fur Flute Violine und Basso - Dolce (Telemann),4XKogfcnoBnK9aKSsnoOzh,0.357,0.12,0,-16.532,1,0.0385,0.794,0.0187,0.116,0.433,91.768
+100,classical,100,/content/classical/100.mp3,The Sarasa Ensemble,A Baroque Mosaic,Partia No 5 - Intrada (Biber),4TqBF1lSz22CglBgMidA2R,0.408,0.178,6,-13.463,0,0.0399,0.829,0.000341,0.47,0.45,98.038
+101,rock,1,/content/rock/1.mp3,Greg Annussek,Little Palaces,Young Again,7GjJI16ZvLYisNRnivPHy9,0.547,0.782,9,-6.409,0,0.0242,0.0109,0.000546,0.356,0.408,100.84
+102,rock,2,/content/rock/2.mp3,Shane Jackman,Equilibrium,What I did on my summer vacation,3mocvhRJHJ3T56phxkxsVg,0.731,0.398,7,-8.912,1,0.0405,0.419,6.04E-05,0.121,0.423,144.06
+103,rock,3,/content/rock/3.mp3,Barbara Leoni,Human Needs,Demons,4nQbhZURyrdqqR2YtutJo9,0.519,0.703,11,-4.663,0,0.0477,0.431,0.00067,0.357,0.632,171.997
+104,rock,4,/content/rock/4.mp3,Tom Bolton,When I Cross The River,When I Cross The River,559pYCSDiZqfLgugc9rx1a,0.523,0.495,9,-9.416,0,0.0281,0.777,3.27E-05,0.0906,0.35,134.67
+105,rock,5,/content/rock/5.mp3,DJ Cary,Sonic Chill,Birds in a Rat Race (Mountain Mirrors),44QPvke4WcykCDHrgJT7Y2,0.316,0.44,2,-8.943,0,0.0306,0.442,0.188,0.246,0.0534,131.101
+106,rock,6,/content/rock/6.mp3,Russ Hopkins,Sweet Mystery,Shattered,10565aHhpGlshv47A5hZVx,0.647,0.351,4,-10.084,1,0.037,0.51,0.00123,0.111,0.251,135.927
+107,rock,7,/content/rock/7.mp3,Val Davis,Immortal_,Texas Sky,4r338oveqm2E55dJufdS2Q,0.603,0.533,0,-9.197,1,0.0351,0.397,0.155,0.141,0.528,127.827
+108,rock,8,/content/rock/8.mp3,The Union Trade,Everyday Including,Self Possession,1hIZDY8wcuvok4GgyFZjkN,0.335,0.749,7,-7.192,1,0.0313,0.00391,0.916,0.179,0.353,126.679
+109,rock,9,/content/rock/9.mp3,Brad Sucks,Out Of It,Dropping out of School,282sr16rTDzSzqaq1jpGE1,0.681,0.823,7,-5.107,1,0.0299,0.00797,0.542,0.149,0.905,124.991
+110,rock,10,/content/rock/10.mp3,Broken Poets,Reincarnation,The Soul,2X0DKGyzdUBJx8e01hByZs,0.516,0.746,7,-6.439,0,0.042,0.000909,0.0332,0.826,0.131,124.185
+111,rock,11,/content/rock/11.mp3,Big Bad Sun,Strange Phenomena,The Spirit,7MLNO3WEoLfCWBHev7w6hZ,0.677,0.791,10,-4.665,1,0.0463,0.18,0.031,0.0408,0.855,121.438
+112,rock,12,/content/rock/12.mp3,MRDC,Timecode,Dopamine,69JbGDDl4xez4TW0jA9vjN,0.638,0.603,7,-7.087,1,0.0413,0.0299,0.569,0.0812,0.428,93.046
+113,rock,13,/content/rock/13.mp3,Brad Senne,Brad Senne,Alone with Nothing,1D9ZOBYvp7wntdYe16jIKS,0.471,0.306,0,-11.711,1,0.0352,0.913,0.0136,0.114,0.326,136.805
+114,rock,14,/content/rock/14.mp3,Shawn Harris,Temptation,Memories,1A6eRrZX9h9wvcZUeAOIVt,0.229,0.497,2,-6.467,1,0.0309,0.0614,0.00106,0.171,0.236,143.699
+115,rock,15,/content/rock/15.mp3,The Union Trade,Everyday Including,Talk,5W8O9uTHx3h0FZWmcAkEsb,0.284,0.858,2,-4.664,1,0.0669,0.0002,0.775,0.187,0.298,135.612
+116,rock,16,/content/rock/16.mp3,Big Bad Sun,Big Bad Sun,Sweet Melissa,3Oj7sAtxrF7dz4xNooV5le,0.36,0.438,7,-6.463,1,0.0287,0.0772,0.00827,0.266,0.311,150.139
+117,rock,17,/content/rock/17.mp3,Brad Senne,The Shapes That Shift Us,Into the Moon,2NKYyJmtuabPyAlPx9dWcU,0.349,0.339,5,-11.159,1,0.0306,0.803,0.466,0.611,0.443,99.928
+118,rock,18,/content/rock/18.mp3,Shane Jackman,Equilibrium,Moonsong,4YGWSFZqkSUofOl8LmGRU4,0.386,0.0945,7,-17.186,1,0.0408,0.902,2.65E-05,0.131,0.144,178.764
+119,rock,19,/content/rock/19.mp3,Arthur Yoria,Of the Lovely,Of the Lovely,67PHx7dN4RacP9v69iwmlj,0.644,0.578,3,-8.157,1,0.0386,0.137,0.0536,0.124,0.597,130.94
+120,rock,20,/content/rock/20.mp3,Arthur Yoria,Suerte Something,Suerte Mijo,18LtBZKhY1GugZqMHscu5K,0.587,0.773,7,-6.697,1,0.0318,0.0642,0.00247,0.124,0.212,115.276
+121,rock,21,/content/rock/21.mp3,Broken Poets,Reincarnation,Factory Head,2oiwdXzu8jLIEUlMR8Y1v0,0.529,0.871,10,-4.362,0,0.0505,0.00297,0,0.089,0.27,120.13
+122,rock,22,/content/rock/22.mp3,Big Bad Sun,Strange Phenomena,Long Time Wondering,206lXfuOId5JsFLX5k1z1L,0.521,0.529,5,-6.117,1,0.0321,0.0857,1.38E-05,0.0611,0.381,121.826
+123,rock,23,/content/rock/23.mp3,Barbara Leoni,Human Needs,Don't rain on my parade,1ZTmWVmMTonPuYmAnQymeL,0.426,0.857,2,-3.825,1,0.104,0.639,0.000309,0.0851,0.657,161.714
+124,rock,24,/content/rock/24.mp3,Burnshee Thornside,Blues and misc,Happy Blues,0obKoewn4j9HSlvZQZkBcq,0.517,0.529,4,-8.428,1,0.0282,0.0416,0.000262,0.0539,0.555,108.092
+125,rock,25,/content/rock/25.mp3,Burnshee Thornside,Rock This Moon,Bad Bad Luck,39euVZ51Q4UX1gy5nWeMZf,0.817,0.782,7,-6.65,1,0.0495,0.0199,0.00149,0.292,0.875,120.989
+126,rock,26,/content/rock/26.mp3,Burnshee Thornside,The Art of Not Blending In,Can I be a star:,4ftlKt4pRAIWAzWdNfVlyY,0.847,0.692,10,-8.463,1,0.0484,0.151,0.000154,0.081,0.961,125.998
+127,rock,27,/content/rock/27.mp3,Grayson Wray,Picassos Dream,There You Were,5MOJ1EXnUPV9hK6mYxULjI,0.719,0.652,4,-5.323,1,0.0272,0.107,2.22E-05,0.135,0.588,119.995
+128,rock,28,/content/rock/28.mp3,Tom Paul,I Was King,Before you know it,0P3RSTEm50waas4q0fdmqD,0.664,0.877,0,-2.676,1,0.0335,0.456,0,0.0814,0.932,123.028
+129,rock,29,/content/rock/29.mp3,Seismic Anamoly,Dead Mans Hand,Santa Rosa Shuffle,35Jt5mTPjJd8Z6BIRq6SX6,0.517,0.944,2,-3.729,1,0.0299,0.171,0.965,0.319,0.551,116.017
+130,rock,30,/content/rock/30.mp3,hands upon black earth,hands upon black earth,Timeagain,2XZLHUTHanJs1iyndEzqvi,0.644,0.645,7,-10.901,1,0.0403,0.135,0.846,0.107,0.563,117.017
+131,rock,31,/content/rock/31.mp3,Hybris,The First Words,Squalid Rooms,63rtu7sqNgvZdojkPXqgvH,0.295,0.658,4,-10.66,1,0.0363,0.258,0.83,0.127,0.191,148.128
+132,rock,32,/content/rock/32.mp3,Burnshee Thornside,Rock This Moon,Rock This Moon,1Q3oxnC4kkD4LjaU9PKAOC,0.775,0.728,0,-6.301,1,0.13,0.48,0,0.0833,0.962,79.958
+133,rock,33,/content/rock/33.mp3,Jeffrey Luck Lucas,What We Whisper,You Knew It Well,5ejEYxAyeZraa1UQqqCl22,0.45,0.355,7,-11.546,0,0.0255,0.553,0.288,0.11,0.114,75.818
+134,rock,34,/content/rock/34.mp3,Lizzi,Love and you and I,Me,5SaKFPbcOzvCzTNT35fgr8,0.553,0.586,3,-6.816,0,0.0265,0.674,0.116,0.121,0.36,98.149
+135,rock,35,/content/rock/35.mp3,Mountain Mirrors,Lunar Ecstasy,Lunar Ecstasy,4SPNG5e778TKui8Nbxw2EL,0.623,0.865,9,-8.214,1,0.0514,0.00403,0.848,0.427,0.528,87.004
+136,rock,36,/content/rock/36.mp3,Brad Sucks,I Dont Know What Im Doing,Look And Feel Years Younger,26tVUcHq2nYLhA895WK40Q,0.57,0.822,5,-7.211,1,0.0812,0.176,7.34E-06,0.185,0.581,95.009
+137,rock,37,/content/rock/37.mp3,Magnatune Compilation,High Energy Rock and Roll,Rocket City Riot: Down with Her,4bEKbZoThpEbbeFMgmkxeP,0.35,0.935,9,-4.595,1,0.0586,6.02E-05,0,0.1,0.369,97.89
+139,rock,39,/content/rock/39.mp3,Mandrake Root,The Seventh Mirror,Kings of the Desert,1DHEXzhfUy2lpDbKVW6Mzn,0.476,0.736,8,-11.191,0,0.0321,0.00317,5.30E-05,0.18,0.464,148.051
+140,rock,40,/content/rock/40.mp3,Arthur Yoria,Suerte Something,Encima de Ti,12zr06JDu67vdThaje07V4,0.626,0.897,11,-6.119,1,0.0412,0.129,0.0213,0.113,0.969,150.389
+141,rock,41,/content/rock/41.mp3,Mountain Mirrors,Lunar Ecstasy,A Short Burst of Clarity,36Xo8C6YTaFO2QijDS03VL,0.574,0.626,2,-10.215,0,0.0561,0.197,0.00132,0.112,0.657,169.926
+142,rock,42,/content/rock/42.mp3,Mountain Mirrors,Mountain Mirrors,Stay Evil,0PeByJAMb1tQrBLtu8qXF5,0.616,0.696,2,-7.201,1,0.0454,0.0451,0.000279,0.113,0.207,135.973
+143,rock,43,/content/rock/43.mp3,MRDC,Timecode,Lust,6sBP6FoHlfo2wAJZZ814zU,0.66,0.77,9,-9.6,0,0.0453,0.0296,0.541,0.134,0.603,104.968
+144,rock,44,/content/rock/44.mp3,Mutandina,Mutandina,Juego,17j15S4rMzO4n7QAbqNO6D,0.844,0.776,10,-5.129,1,0.088,0.512,0.00318,0.141,0.879,105.99
+145,rock,45,/content/rock/45.mp3,Myles Cochran,Marginal Street,Gold and rose,0xr4G1VLjckAaQlm2mI6c1,0.597,0.355,7,-12.761,1,0.0291,0.684,0.271,0.117,0.398,94.734
+146,rock,46,/content/rock/46.mp3,Arthur Yoria,Of the Lovely,Just Like You,6XHoU9fSrUpoy42V1V93lg,0.391,0.611,11,-8.244,1,0.0341,0.625,0.0549,0.194,0.352,171.906
+147,rock,47,/content/rock/47.mp3,Brad Sucks,Out Of It,Certain Death,6u9rDpRuWql8ItwvsLCFlf,0.564,0.899,7,-5.406,1,0.0276,0.000994,0.0626,0.331,0.711,129.976
+148,rock,48,/content/rock/48.mp3,William Brooks,Bitter Circus,Try it Like This,65pbNbbTCE9wuO2OrManUf,0.391,0.878,9,-3.174,1,0.0521,0.283,1.01E-06,0.0797,0.579,179.749
+149,rock,49,/content/rock/49.mp3,Brad Senne,The Shapes That Shift Us,Caroline to Maine,4mAdFKD0KQt4llmm9ov3ae,0.61,0.386,1,-9.854,1,0.025,0.453,6.62E-05,0.212,0.339,95.147
+150,rock,50,/content/rock/50.mp3,Spinecar,Passive Aggressive,New Orleans,3cbOqff6EMNqfhzUeJ1Khi,0.38,0.325,7,-17.071,1,0.0469,0.0286,0.0101,0.105,0.507,168.937
+151,rock,51,/content/rock/51.mp3,Arthur Yoria,Ill Be Here Awake,Permanent,3fgL3OmqcUff05Q5RSynMk,0.437,0.842,7,-3.887,1,0.0401,0.0386,0.0985,0.285,0.651,147.679
+152,rock,52,/content/rock/52.mp3,Hybris,The First Words,Fateful Kind Of Rage,77RPiWUkclWraANCcG9Zje,0.275,0.85,2,-8.246,0,0.0712,0.00334,0.181,0.147,0.347,147.443
+153,rock,53,/content/rock/53.mp3,William Brooks,Blue Ribbon - The Best of William Brooks,Ole Soledad,35wjkKCl3XwrPrE8Ak5O2I,0.517,0.479,2,-6.063,1,0.0268,0.185,6.72E-05,0.124,0.232,126.839
+154,rock,54,/content/rock/54.mp3,William Brooks,Silent Wings,Between there and here,4R5RHh80Zme2MvtfxgEhcd,0.608,0.683,1,-8.28,0,0.0291,0.0744,0.00821,0.311,0.755,125.88
+155,rock,55,/content/rock/55.mp3,Shawn Harris,Temptation,Crown Of Thorns,7KrmGB5o4gLWI7JAd5jZjT,0.582,0.473,7,-9.869,1,0.0339,0.196,0.0143,0.142,0.501,86.921
+156,rock,56,/content/rock/56.mp3,Big Bad Sun,Big Bad Sun,Come Out Baby,4kbuOswBB9GTyFammu3Cty,0.501,0.861,5,-3.8,1,0.0756,0.11,0.000154,0.355,0.589,130.89
+157,rock,57,/content/rock/57.mp3,The Seldon Plan,Making Circles,Making Circles,5voz2qzApD9zDo11YXqLow,0.461,0.809,11,-4.976,0,0.0391,0.000372,0.00227,0.0314,0.227,152.081
+158,rock,58,/content/rock/58.mp3,The Seldon Plan,Making Circles,A Rhyming Dictionary,6O9BjMCmHASzFfYSDTwZKT,0.505,0.769,9,-5.853,1,0.0374,0.0048,0.0322,0.0356,0.407,119.416
+159,rock,59,/content/rock/59.mp3,Tom Paul,There is no map,Essence of a smile,0kuo7uE3WKpPqpmBUnxko2,0.603,0.843,4,-5.896,1,0.032,0.131,0.000503,0.346,0.644,78.436
+161,rock,61,/content/rock/61.mp3,Wicked boy,The Treatment,Pressure,4It1RYA6UhQ5JS2jEA99CM,0.649,0.79,9,-7.514,1,0.0613,0.000902,0.872,0.171,0.174,130.038
+162,rock,62,/content/rock/62.mp3,William Brooks,Bitter Circus,The Gift,07IIFO86kPcWeURALaVli3,0.635,0.918,2,-2.947,1,0.0719,0.029,0.00129,0.0589,0.708,125.052
+163,rock,63,/content/rock/63.mp3,William Brooks,Karma Dogs,Karma Dogs,5BLOLSAUWGxjDZl9wujP7d,0.267,0.704,9,-6.45,1,0.0423,0.222,0.106,0.326,0.486,176.266
+164,rock,64,/content/rock/64.mp3,William Brooks,Buffalo Treason,Grace,55bNngM5Wf8Tk4LXP4mxDr,0.611,0.426,9,-7.216,1,0.027,0.702,0,0.144,0.384,116.291
+165,rock,65,/content/rock/65.mp3,William Brooks,Fowl Mouth,Do You Think He Knows:,59T1zRdGOgEawE3FVaSrXC,0.464,0.346,4,-10.794,1,0.0337,0.819,7.74E-05,0.379,0.278,148.832
+166,rock,66,/content/rock/66.mp3,William Brooks,Blue Ribbon - The Best of William Brooks,Karma Dogs:,5GL9QGFiozGy2qNuWwhSZa,0.367,0.701,9,-6.536,1,0.0362,0.292,0.0518,0.276,0.493,117.494
+167,rock,67,/content/rock/67.mp3,William Brooks,Silent Wings,Silent Wings,45FUzlHs0SJR3nR86KyBEQ,0.336,0.794,0,-5.051,1,0.0326,0.31,0.0401,0.168,0.518,176.113
+168,rock,68,/content/rock/68.mp3,Magnatune Compilation,Red Hat Summit Compilation,Brad Sucks - I Think I Started a Trend,2vkvU6mtXHX4AxPjtuLP0X,0.514,0.511,0,-7.738,1,0.0264,0.588,0,0.0914,0.474,150.006
+169,rock,69,/content/rock/69.mp3,Magnatune Compilation,High Energy Rock and Roll,Rocket City Riot: Hypodermic,5klF4axPp7dzJj9WROTfI9,0.315,0.942,2,-4.706,1,0.0776,1.87E-06,0.000195,0.243,0.513,108.476
+170,rock,70,/content/rock/70.mp3,William Brooks,Silent Wings,Hideaway,12VVBXX57oUKcBohi6BMa5,0.316,0.336,2,-9.647,1,0.0331,0.583,1.35E-05,0.279,0.252,155.7
+171,rock,71,/content/rock/71.mp3,Lie Big,Severed,Underside,6r0ZFud9icyP8JI78F1pyP,0.536,0.539,9,-10.701,1,0.0296,0.0106,0.632,0.307,0.386,100.052
+172,rock,72,/content/rock/72.mp3,Greg Annussek,Little Palaces,Long Way Down,5xvObugMCNOSpQ0vGjv9Xd,0.581,0.839,2,-5.602,1,0.0323,0.000637,0.253,0.269,0.508,120.198
+173,rock,73,/content/rock/73.mp3,William Brooks,Buffalo Treason,World,0BFAiwpwgIEAc41JP2bVpx,0.749,0.681,11,-8.487,1,0.0451,0.57,0.00167,0.0823,0.794,112.804
+174,rock,74,/content/rock/74.mp3,Immune,Nothing Left To Believe,In Your Place,1R3c72ORGK7wHgfbBW2H1c,0.57,0.872,2,-8.013,1,0.0686,0.0161,0.0158,0.21,0.518,131.33
+175,rock,75,/content/rock/75.mp3,Greg Annussek,Little Palaces,Long Way Down,5xvObugMCNOSpQ0vGjv9Xd,0.581,0.839,2,-5.602,1,0.0323,0.000637,0.253,0.269,0.508,120.198
+176,rock,76,/content/rock/76.mp3,William Brooks,Silent Wings,Hideaway,12VVBXX57oUKcBohi6BMa5,0.316,0.336,2,-9.647,1,0.0331,0.583,1.35E-05,0.279,0.252,155.7
+177,rock,77,/content/rock/77.mp3,Barbara Leoni,Human Needs,Another time,1HguDBgKzHPcLF3EHpNDeo,0.566,0.445,4,-8.032,0,0.0326,0.749,0.000555,0.339,0.276,81.078
+178,rock,78,/content/rock/78.mp3,Shane Jackman,Equilibrium,Uncommon eloquence,6x4mFZqP4ERCUm15takQty,0.655,0.55,2,-11.044,1,0.0304,0.242,0.000139,0.105,0.53,106.04
+179,rock,79,/content/rock/79.mp3,William Brooks,Silent Wings,Land of Lincoln,6NwoUJaH15SXY3Q1msIwjE,0.789,0.668,9,-7.033,1,0.0297,0.164,0.000303,0.223,0.922,128.011
+180,rock,80,/content/rock/80.mp3,Greg Annussek,Little Palaces,You Bow Down,09cxL5ow4yDWS9H305RPCS,0.602,0.548,0,-6.149,1,0.0273,0.0158,0.00272,0.167,0.418,142.245
+181,rock,81,/content/rock/81.mp3,Barbara Leoni,Human Needs,Waterfall,0bRLJTCVbB7DTWqAzm1E9r,0.583,0.558,5,-5.607,0,0.0393,0.278,0.000456,0.0986,0.529,139.813
+182,rock,82,/content/rock/82.mp3,Shane Jackman,Equilibrium,The angle of repose,3afp1ijH5fzcJN9UclpE8z,0.422,0.132,7,-15.139,1,0.0453,0.819,1.17E-06,0.0979,0.364,184.357
+183,rock,83,/content/rock/83.mp3,Shane Jackman,Equilibrium,Set fire to the city,5ZudHTeHiaKuPJC78V0fNv,0.635,0.508,5,-8.38,1,0.0291,0.266,1.26E-05,0.0993,0.437,133.899
+184,rock,84,/content/rock/84.mp3,William Brooks,Silent Wings,I have a mind,5owlm4qndNknW1Pbs2HdqM,0.538,0.567,11,-8.269,0,0.0275,0.231,0.0475,0.326,0.572,110.172
+185,rock,85,/content/rock/85.mp3,Greg Annussek,Little Palaces,In the Movies,1rl7uEKCQj0I6ACe0v8NOy,0.561,0.667,2,-7.178,1,0.0416,0.00636,0.0531,0.0903,0.58,82.038
+186,rock,86,/content/rock/86.mp3,Barbara Leoni,Human Needs,Human needs,7GdQCuro1f3YFUJUDaAi9k,0.297,0.605,4,-4.745,1,0.0351,0.122,0.000583,0.148,0.539,209.959
+187,rock,87,/content/rock/87.mp3,Shane Jackman,Equilibrium,Walk among the bones,51CWG1jck4bCwpXyQaEzpy,0.551,0.12,10,-15.684,1,0.0369,0.675,0.00114,0.113,0.0687,126.953
+188,rock,88,/content/rock/88.mp3,William Brooks,Silent Wings,You barely see me,1rQlX6qhy2DN4NjR5WtI81,0.466,0.531,9,-7.045,1,0.0329,0.594,0.000186,0.101,0.233,133.847
+189,rock,89,/content/rock/89.mp3,Barbara Leoni,Human Needs,Haunted,2elRMy1KiwAfTmWP1S2gF9,0.671,0.558,9,-5.868,0,0.0493,0.437,0.000179,0.264,0.694,76.071
+190,rock,90,/content/rock/90.mp3,Greg Annussek,Little Palaces,Didn't You Know?,3tQXHFGZp0rkrLpls541LZ,0.506,0.306,7,-12.329,1,0.0317,0.43,0.000242,0.1,0.349,140.023
+191,rock,91,/content/rock/91.mp3,Shane Jackman,Equilibrium,Didn't I,7ciMP2R6mAw2SfLSWpAzaR,0.515,0.63,9,-9.938,1,0.0491,0.137,9.83E-06,0.101,0.672,84.88
+192,rock,92,/content/rock/92.mp3,Shane Jackman,Equilibrium,Driftwood fire,3sH699dxzwIBBchULv10rt,0.566,0.393,8,-10.544,1,0.03,0.476,2.73E-06,0.0893,0.209,137.935
+193,rock,93,/content/rock/93.mp3,Shane Jackman,Equilibrium,My heart still beats,6Cl8xd5AciDWmu1koo8A22,0.452,0.174,9,-15.002,0,0.0402,0.765,0,0.114,0.1,91.919
+194,rock,94,/content/rock/94.mp3,Greg Annussek,Little Palaces,Sunday Again,76RZZ7y34aQEwJHgNSl6Ww,0.657,0.61,7,-8.415,1,0.0282,0.0794,0.00268,0.133,0.628,118.156
+195,rock,95,/content/rock/95.mp3,Shane Jackman,Equilibrium,Cornflakes for supper,0Gp3ADrBugcgmwNyoSBGXM,0.59,0.375,7,-11.064,1,0.0271,0.442,0.00175,0.114,0.195,113.853
+196,rock,96,/content/rock/96.mp3,William Brooks,Silent Wings,Maybe Meagan,4HcDbhSM6ZNMPLeR3TNabv,0.707,0.496,7,-8.264,1,0.0279,0.639,6.32E-06,0.21,0.73,125.982
+197,rock,97,/content/rock/97.mp3,Barbara Leoni,Human Needs,Ring around the rosey,3e457vhp0Oa9EcFvw22FPs,0.713,0.595,5,-4.319,0,0.0393,0.319,0,0.171,0.49,125.957
+198,rock,98,/content/rock/98.mp3,Greg Annussek,Little Palaces,He Should Love Her,5UDn6bOBap0bQqtPGJdlwi,0.612,0.83,7,-6.818,1,0.038,0.293,0.000161,0.0829,0.905,96.523
+199,rock,99,/content/rock/99.mp3,William Brooks,Silent Wings,Justified,0NAFVLvPZTY9P9LdhlIlII,0.473,0.855,0,-4.509,1,0.0349,0.0338,0.0145,0.1,0.773,156.039
+200,rock,100,/content/rock/100.mp3,Greg Annussek,Little Palaces,Mr. Myers,6viNh01GdSBziZ0aRYuLGc,0.607,0.538,0,-8.162,1,0.0269,0.108,3.38E-06,0.294,0.589,110.797
+201,electronic,1,/content/electronic/1.mp3,Mantic,Epigrams,Abstract Power Remix (by DiViD),1LZbB5B4TAo5Qo9dOuiHjm,0.797,0.891,11,-14.709,1,0.067,0.139,0.912,0.306,0.698,130.011
+202,electronic,2,/content/electronic/2.mp3,Burning Babylon,Beat Beat Beat,Sproing-A-Dub,1jhBlOM8nBL48q56qCBxtk,0.763,0.837,10,-11.823,0,0.0585,0.0192,0.811,0.247,0.858,159.952
+203,electronic,3,/content/electronic/3.mp3,The Headroom Project,Dominus Illuminato Mea,Dominus Illuminato Mea,6q5F4SkRiYcIb2O3qD6RRs,0.36,0.453,0,-12.938,0,0.049,0.631,0.0686,0.0901,0.0514,139.991
+204,electronic,4,/content/electronic/4.mp3,Jerry Berlongieri,Alter Echo Original Soundtrack,Beneath the Skin,4jfV6ot7jog82kC3VyoAXO,0.784,0.798,7,-8.904,1,0.0402,0.193,0.828,0.229,0.414,129.924
+205,electronic,5,/content/electronic/5.mp3,General Fuzz,Soulful Filling,Eye Heart Knot,5U9oLGkHZxF53ygWpP31hT,0.63,0.242,0,-16.499,1,0.0303,0.885,0.892,0.0904,0.134,108.023
+206,electronic,6,/content/electronic/6.mp3,Mantic,EPROMs,Blue-tinted Sunglasses,1sT806BdT4n5oQ6QskcAdb,0.806,0.777,7,-7.306,1,0.0518,0.0058,0.93,0.11,0.079,123.007
+207,electronic,7,/content/electronic/7.mp3,Mantic,Eponyms,Electro Jive,5UrzeC2ZNUTWeOgMJpqP5e,0.81,0.874,4,-10.364,0,0.0473,5.46E-06,0.914,0.217,0.067,122.017
+208,electronic,8,/content/electronic/8.mp3,Twilight Archive,Twilight Archive,House Of Tomorrow,4gWq4tkd0eSWQIv4W2xXHr,0.699,0.851,4,-12.581,0,0.0457,0.497,0.833,0.108,0.158,99.947
+209,electronic,9,/content/electronic/9.mp3,Jerry Berlongieri,Evenings At The Microscope,Known Bugs,7waZQV8aMT405seWNuWvt0,0.794,0.873,7,-7.969,1,0.0401,0.0074,0.829,0.108,0.776,127.963
+210,electronic,10,/content/electronic/10.mp3,Saros,Labyrinth - and we shall all die trying,Murder Machine,5oUyiefbdRLdBVCYtiE3hh,0.448,0.32,0,-16.88,1,0.0324,0.32,0.837,0.154,0.162,184.049
+211,electronic,11,/content/electronic/11.mp3,Mantic,Eponyms,Skunk Werks,6s7y1qTFNGGynLBFXq4uHt,0.799,0.832,1,-11.719,0,0.046,0.061,0.932,0.0914,0.118,128.014
+212,electronic,12,/content/electronic/12.mp3,Joram,Moments of Clarity,moments of clarity,0UUyWDqVHYutsLeuHR8yeC,0.697,0.938,10,-5.071,0,0.0456,0.697,0.908,0.0878,0.909,151.893
+213,electronic,13,/content/electronic/13.mp3,Burning Babylon,Stereo Mash Up,7 Nine Skank,30dpzlEDkhGMGdBVUFETid,0.765,0.317,4,-12.178,0,0.0495,0.0466,0.482,0.124,0.352,70.918
+214,electronic,14,/content/electronic/14.mp3,Mantic,Eponyms,Spear Burn,7IJvxxpfiKbDM2EUy1CcZ0,0.756,0.937,4,-8.074,0,0.0407,0.000146,0.769,0.0938,0.307,129.995
+215,electronic,15,/content/electronic/15.mp3,Burning Babylon,Knives To The Treble,Roots Fi Cool,1HjAJzaHYisuV1rycYqcng,0.748,0.538,10,-10.716,0,0.257,0.00711,0.943,0.115,0.672,81.93
+216,electronic,16,/content/electronic/16.mp3,Mantic,Eponyms,Starbase Lounge Music,56LeMNuo53uxNDHhho6xuu,0.738,0.685,2,-8.051,1,0.0488,0.000734,0.829,0.0982,0.143,128.987
+217,electronic,17,/content/electronic/17.mp3,Kourosh Dini,Live At Bliss Gardens,Introduction,2pk5W6jkTYf7LhpSj2WQWL,0.231,0.028,0,-22.603,0,0.088,0.99,0.901,0.0548,0.187,52.536
+218,electronic,18,/content/electronic/18.mp3,Adam Fielding,Distant Activity,Distant Activity,1B3eQOowqfL9wK6vongZYi,0.512,0.565,0,-11.841,0,0.0356,0.053,0.867,0.111,0.053,125.014
+220,electronic,20,/content/electronic/20.mp3,Kalabi,Dandelion,Revolver (Featuring Canola Tenderfoot),21TgXRMWhwrQz5BsUOTUM4,0.672,0.62,6,-8.642,1,0.0332,0.0974,0.773,0.0993,0.183,95.024
+221,electronic,21,/content/electronic/21.mp3,Shiva in Exile,Nour,Viva La Revolucion,3hA12ULs2xl7TQsaFshVdl,0.41,0.51,6,-9.196,1,0.0272,0.0605,0.00462,0.0877,0.147,80.002
+222,electronic,22,/content/electronic/22.mp3,Mantic,Eponyms,Electro Kinetic,47a5MMfdDCiH4G6LNhsFnX,0.781,0.912,6,-7.008,0,0.0683,9.25E-06,0.908,0.0877,0.264,131.015
+223,electronic,23,/content/electronic/23.mp3,Mantic,Eponyms,Talk Box,1PYh0hfGFf7D7mTvRZlLCw,0.77,0.88,4,-12.379,0,0.0438,0.00336,0.859,0.0825,0.502,129.002
+224,electronic,24,/content/electronic/24.mp3,AntiGuru,Fall Submissions,Blue Line,1dS9hCKf8CDnElRrKQ95Cm,0.287,0.634,10,-13.926,0,0.0431,0.00244,0.437,0.0755,0.42,119.955
+225,electronic,25,/content/electronic/25.mp3,Bjorn Fogelberg,Karooshi Porn,trioxidation,6ilOX4nhd5l1A3qvRI8VmL,0.28,0.482,1,-15.975,1,0.0474,0.825,0.891,0.443,0.364,66.98
+226,electronic,26,/content/electronic/26.mp3,DJ Cary,After Dinner Lounge,Hans Christian : Desperado,7HvOpLPX3Acs9EHYydzBPD,0.441,0.625,10,-11.725,0,0.0362,0.00327,0.537,0.0975,0.205,108.696
+227,electronic,27,/content/electronic/27.mp3,DJ Cary,Downtempo Chill,Ruff and Tumble (Mr Epic),7gLQhAnRFcTojLXeDCIpMb,0.501,0.546,4,-13.82,0,0.0815,0.131,0.361,0.17,0.775,90.006
+228,electronic,28,/content/electronic/28.mp3,DJ Markitos,Evolution of the Mind,Sunset (Endless Night Journey remix),5jgb3kQSdYmju09UqfsCQN,0.606,0.995,5,-7.279,1,0.0435,0.000773,0.816,0.0965,0.148,140.011
+229,electronic,29,/content/electronic/29.mp3,DJ Markitos,Inside Your Dreams,Interplanetary Travel,4s9lHMigxxYiipHuNfdgeG,0.605,0.915,4,-12.473,1,0.102,0.215,0.966,0.581,0.333,139.995
+230,electronic,30,/content/electronic/30.mp3,DJ Markitos,Slower Emotions-138 BPM Remixes,Sunset (138 BPM Remix),7mv1YRIm56fj9VUQxiojUd,0.64,0.995,9,-7.562,0,0.0488,0.00293,0.89,0.134,0.106,138.004
+231,electronic,31,/content/electronic/31.mp3,DJ Markitos,Unreachable Destiny,Manteia,5l5XEuTUY96XT2j01b71ep,0.566,0.775,4,-10.609,0,0.0311,0.00236,0.81,0.372,0.402,139.982
+232,electronic,32,/content/electronic/32.mp3,Domased,New Memories,Summer Night Heaven,5D7qyvGNjQHJqw91gdYBNH,0.556,0.5,9,-19.903,0,0.0414,0.0245,0.9,0.155,0.0532,160.021
+233,electronic,33,/content/electronic/33.mp3,Domased,Return Back,Bad Dreams,3mVdYJWoxtptHkDkES8WZB,0.536,0.888,10,-13.34,0,0.0384,0.00122,0.891,0.123,0.754,159.999
+234,electronic,34,/content/electronic/34.mp3,Domased,Selection,He Is Leaving Us,3gHYWCmuJ2YGgIiA4lunqe,0.367,0.408,9,-11.691,0,0.0304,0.0626,0.862,0.0936,0.0665,120.013
+235,electronic,35,/content/electronic/35.mp3,Domased,Slowdown,Meditation,0xWsTUJZz18mJnmMWTUlBB,0.586,0.535,5,-15.815,1,0.037,0.14,0.903,0.1,0.184,140.02
+236,electronic,36,/content/electronic/36.mp3,The Rapture,Garden of Fugitives,Terminus,77VaQ0fwx9fVjxHLF4E32l,0.762,0.889,7,-7.153,1,0.0553,0.595,0.882,0.1,0.699,124.024
+237,electronic,37,/content/electronic/37.mp3,Etherine,24 Days,Opening yet closing,4b98MJjH17vEgCEl4y4AOU,0.344,0.468,9,-15.347,0,0.0477,0.536,0.887,0.108,0.054,120.033
+238,electronic,38,/content/electronic/38.mp3,Etherine,Gleam,Lost,19qmb32mCKthrrUYfgmhJd,0.488,0.391,10,-14.895,0,0.0352,0.099,0.861,0.11,0.314,200.005
+240,electronic,40,/content/electronic/40.mp3,Glen Bledsoe,Up and Down,Vernal Equinox,3VUROR6OjYUpaWMLm7jP7P,0.101,0.0376,0,-23.18,0,0.0424,0.983,0.976,0.116,0.387,84.834
+241,electronic,41,/content/electronic/41.mp3,Human Response,Delirious,Delirious,2pbYzU3yP3ozifyFwcyZtQ,0.477,0.52,5,-14.611,0,0.0332,0.147,0.842,0.284,0.611,170.196
+242,electronic,42,/content/electronic/42.mp3,Human Response,Survival,Survival,5AaeCzAq0vvqEj1U1AfrcS,0.277,0.243,5,-11.97,1,0.0449,0.658,0.481,0.14,0.101,111.831
+243,electronic,43,/content/electronic/43.mp3,iNTROSPEKT,iDEOLOGY,Knucklehead,7bu65kCGIzcoWTWuyxbdGs,0.794,0.853,5,-14.403,1,0.0411,0.000674,0.927,0.0875,0.596,131.019
+244,electronic,44,/content/electronic/44.mp3,Ivilion,Sartinal,Sartinal I,5H6NuwaD50Bju3vMZvAfC2,0.506,0.497,10,-21.268,1,0.0408,0.75,0.905,0.1,0.0788,145.006
+245,electronic,45,/content/electronic/45.mp3,Ivilion,Terean,Ferrilotyr,6Ty1FgICCwfW9OjiOjyitK,0.151,0.562,11,-11.455,1,0.0399,0.194,0.923,0.123,0.0387,136.066
+246,electronic,46,/content/electronic/46.mp3,Mantic,Eponyms,Deep House,7kjUUXoJwFmdKZH0adLAEO,0.794,0.42,0,-13.715,1,0.0541,0.0112,0.912,0.0965,0.0316,120.01
+247,electronic,47,/content/electronic/47.mp3,Kenji Williams,Faces of Epiphany,Spirit Walker,25XgsAUFxbifnPSWaTp4rz,0.747,0.832,4,-12.877,0,0.0508,0.0137,0.768,0.208,0.0432,130.002
+249,electronic,49,/content/electronic/49.mp3,The Rapture,Garden of Fugitives,Where the Earth Is,3bl186duOvkVAvj4XWpGNw,0.731,0.858,2,-8.246,1,0.05,0.305,0.755,0.0432,0.399,115.988
+250,electronic,50,/content/electronic/50.mp3,Memories of Tomorrow,Waiting for Dawn,Memories of Tomorrow,0KELC1YQTXWpKeDbSZsE4g,0.537,0.902,4,-9.196,0,0.034,3.37E-05,0.896,0.289,0.776,136.987
+251,electronic,51,/content/electronic/51.mp3,Mijo,Fata Morgana,Click Here,0ffty1Z9gJHRJ7CpyYMxrT,0.62,0.663,10,-9.988,0,0.0306,0.0263,0.145,0.11,0.409,112.482
+252,electronic,52,/content/electronic/52.mp3,mr Epic,Sideways,Down Low,5ylLSoa3MHGYjR7f2FRkpj,0.656,0.37,10,-12.425,1,0.0401,0.0459,0.718,0.113,0.116,144.192
+253,electronic,53,/content/electronic/53.mp3,Mr Gelatine,Electroluv,ting,11THjlX49fczqP8H1InU01,0.8,0.745,8,-9.896,0,0.0551,0.415,0.828,0.1,0.898,100.006
+254,electronic,54,/content/electronic/54.mp3,MRDC,Plethora,Plethora,7xvyb7TXW7S9YGWUOfTa3i,0.533,0.985,5,-6.77,0,0.0732,0.0184,0.763,0.123,0.714,160.008
+255,electronic,55,/content/electronic/55.mp3,Processor,Are you for real,Mad bull,4HgklAFVzqAYz0y8O2mBgS,0.631,0.88,11,-6.414,0,0.129,0.00114,0.11,0.0525,0.399,127.912
+256,electronic,56,/content/electronic/56.mp3,Processor,Insomnia,Insomnia,5ZLZEJOWTAg2Lc6bOH1qVM,0.579,0.976,11,-4.862,0,0.044,0.00124,0.377,0.67,0.406,135.01
+257,electronic,57,/content/electronic/57.mp3,Professor Armchair,Too Much Mustard,A Signal from Mars,1rOtxLFYIWVkk9syjZyv08,0.254,0.346,3,-11.338,1,0.0291,0.833,0.221,0.309,0.446,92.531
+258,electronic,58,/content/electronic/58.mp3,Psychetropic,China radio sunshine,Futurengine,2J7GqrzmmJxVAoG0g3Mbof,0.54,0.578,5,-11.825,1,0.0393,0.163,0.121,0.255,0.495,160.052
+259,electronic,59,/content/electronic/59.mp3,Saros,Soundscapes,Eventide,71gx2gegCdSdGYL5aym7mj,0.642,0.534,10,-17.713,0,0.0387,0.249,0.889,0.111,0.602,108.002
+260,electronic,60,/content/electronic/60.mp3,Shiva in Exile,Ethnic,Odysseia,4ALdIDTmFbJAxcgJJeDEvn,0.445,0.462,5,-9.388,1,0.0298,0.0458,6.91E-05,0.625,0.192,93.079
+261,electronic,61,/content/electronic/61.mp3,Solace,Ahsas,Solitude (Khlas 6-8),7Ck6jXOqRDlneZ9Gs1QyvF,0.468,0.495,0,-10.467,1,0.0705,0.151,0.00319,0.07,0.105,149.443
+262,electronic,62,/content/electronic/62.mp3,Solace,Balance,Ping Heng,5yvkYkFyoaThqjlHCrcgq4,0.241,0.255,11,-18.373,1,0.0434,0.969,0.902,0.65,0.0355,129.172
+263,electronic,63,/content/electronic/63.mp3,Solace,Iman,Saalik,2XU2O5hIjettCX0QhAtMfu,0.167,0.291,9,-13.586,1,0.0382,0.825,0.227,0.154,0.036,74.407
+264,electronic,64,/content/electronic/64.mp3,Solace,Rhythm Of The Dance,Beledi  4:4,0pnNON9tK6lnZYoaazLimY,0.783,0.771,5,-10.003,1,0.0464,0.00347,0.783,0.0472,0.48,112.054
+265,electronic,65,/content/electronic/65.mp3,Solace,Satya,Darban Jooth Na Boley (The Mirror Never Lies) ,0OUf59geBd4W3B3jkGUyPF,0.713,0.683,10,-11.923,0,0.0455,0.00994,0.879,0.0823,0.306,120.026
+266,electronic,66,/content/electronic/66.mp3,Solace,ShaWaza,Rebirth,5rhwBx7Ld1YbRljn0if73k,0.492,0.449,8,-11.792,1,0.0713,0.211,0.921,0.0811,0.0946,180.008
+267,electronic,67,/content/electronic/67.mp3,Solace,The Gathering Season,Paradise lost,7mFxO1YOmLizRIf3ScW0ob,0.623,0.379,1,-11.134,1,0.0443,0.00412,0.932,0.0923,0.0319,120.045
+268,electronic,68,/content/electronic/68.mp3,Solace,Vadalna,Kushee Maanao-Aural Mix,5qGOmCuPsheRL1KP3Clc4B,0.637,0.903,9,-9.628,0,0.0454,0.0237,0.848,0.415,0.661,120.017
+269,electronic,69,/content/electronic/69.mp3,Solar Cycle,Sunlight,Sunlight,4Pxu5uoMOTbu1XSwDh9FhN,0.599,0.881,4,-11.886,0,0.0434,0.031,0.929,0.71,0.484,125.01
+270,electronic,70,/content/electronic/70.mp3,Stargarden,Step Off,From Here to There,2Rki8Fe67mBG15ZdzEScue,0.272,0.34,5,-11.444,1,0.0335,0.564,0.818,0.106,0.0385,146.392
+271,electronic,71,/content/electronic/71.mp3,Strojovna 07,Dirnix,Dezert,3IeJtTHk9Z8cIamwZOr0sH,0.754,0.927,0,-7.262,1,0.0567,0.00061,0.887,0.092,0.43,136.007
+272,electronic,72,/content/electronic/72.mp3,Strojovna 07,III,Zabudni na to,6rSC9yJJpQUyUJAOIFGHKe,0.804,0.924,5,-8.915,0,0.0602,0.0353,0.649,0.134,0.7,119.973
+273,electronic,73,/content/electronic/73.mp3,Strojovna 07,Mirnix,Lighting fly,2gVoH9HJVo1Ht0huKcdhtB,0.751,0.894,2,-6.568,1,0.0568,0.00575,0.811,0.116,0.37,129.998
+274,electronic,74,/content/electronic/74.mp3,Strojovna 07,Number 1,Ambi Crack,7fCVp1safGDNIbEBODVVyG,0.739,0.757,4,-12.392,0,0.0496,0.162,0.856,0.0763,0.23,90
+275,electronic,75,/content/electronic/75.mp3,Strojovna 07,Switch On - Switch Off,Untitled,5HuP9kFCvfgk9MjFbOo2iy,0.348,0.367,7,-15.903,1,0.0356,0.0417,0.815,0.0897,0.0589,119.353
+276,electronic,76,/content/electronic/76.mp3,The Bots,Now is The Time,Push,37ZmAiF9Wrddq19uCZrQyX,0.723,0.939,10,-6.917,0,0.121,0.0996,0.236,0.0843,0.87,140.042
+277,electronic,77,/content/electronic/77.mp3,The Headroom Project,Apa Ya,African Dance,6XXA3rE00eR69SNwXpt3Ue,0.815,0.805,10,-7.503,0,0.0938,0.0852,0.727,0.0804,0.673,100.043
+278,electronic,78,/content/electronic/78.mp3,The Headroom Project,Ciri a Doro,Monkey Party,1rqDqv81vnNo8b4oev7ncT,0.705,0.766,7,-7.992,1,0.0313,0.000622,0.55,0.104,0.394,119.986
+280,electronic,80,/content/electronic/80.mp3,Wicked boy,Chemistry,Buy my pullovers,0R9bggshSv5dDUGcT8ibz4,0.552,0.803,7,-8.703,1,0.0474,0.00142,0.836,0.174,0.657,120.027
+281,electronic,81,/content/electronic/81.mp3,Zilla,Egg,Wind Barber,2QmuknBQjmi4vXtsZBCCQZ,0.606,0.753,11,-14.545,1,0.0337,0.17,0.764,0.103,0.661,127.894
+282,electronic,82,/content/electronic/82.mp3,Kenji Williams,Faces of Epiphany,Other Self,0luWUAwMqlfdcr5pNMnVYV,0.67,0.813,10,-9.022,0,0.0668,0.000409,0.797,0.0543,0.745,130.024
+283,electronic,83,/content/electronic/83.mp3,Kenji Williams,Faces of Epiphany,Illusion (Bedrock mix),1mKbbuzmTS3sjMKgcW3Ypm,0.628,0.804,10,-11.417,0,0.0402,0.00905,0.875,0.112,0.421,131.996
+284,electronic,84,/content/electronic/84.mp3,Kenji Williams,Faces of Epiphany,Never Look Away,0kyHjQfARzAW1GkvPTCPpa,0.651,0.806,7,-9.844,1,0.0474,0.0665,0.641,0.269,0.777,126.002
+285,electronic,85,/content/electronic/85.mp3,Kenji Williams,Faces of Epiphany,Death and rain,3JOB1IISV9oZ6uBC8Ms91E,0.618,0.805,7,-9.005,1,0.044,0.0066,0.817,0.648,0.0391,132.01
+286,electronic,86,/content/electronic/86.mp3,Kenji Williams,Faces of Epiphany,2k1,0OuPNq4ySDVEDHOMIvoIZK,0.723,0.966,2,-9.324,1,0.0487,0.0167,0.913,0.198,0.113,134.988
+287,electronic,87,/content/electronic/87.mp3,Kenji Williams,Faces of Epiphany,Tokyo Story,7cywO9FIqotuh0pykuq5bL,0.651,0.638,8,-9.38,1,0.0379,0.000473,0.838,0.135,0.818,135.008
+288,electronic,88,/content/electronic/88.mp3,Kenji Williams,Faces of Epiphany,Free Energy ,7yyZkSAadLcmGCbiTZaR70,0.59,0.676,5,-11.991,0,0.0334,0.0414,0.82,0.365,0.478,139.98
+289,electronic,89,/content/electronic/89.mp3,Kenji Williams,Faces of Epiphany,Soul Captain,6ZyX4HJv5hgAVP4eN40d10,0.692,0.764,7,-10.789,1,0.0477,0.0818,0.895,0.229,0.45,140.006
+290,electronic,90,/content/electronic/90.mp3,Solar Cycle,Flare,Flare,4x6FQU2iUreLjeqjFeW8LT,0.32,0.803,9,-4.7,0,0.0723,0.00676,0.00152,0.0491,0.171,124.434
+291,electronic,91,/content/electronic/91.mp3,Solar Cycle,Flare,Cafe del Soul,0lmjSfY3hltCNijYp9uJgw,0.479,0.712,9,-8.04,0,0.0421,0.498,0.757,0.0535,0.192,179.859
+292,electronic,92,/content/electronic/92.mp3,Solar Cycle,Flare,Vibes of Comfort,15rlNT2YQPrJhellZr6ulL,0.642,0.845,0,-4.764,1,0.0711,0.406,0.0616,0.0845,0.77,124.999
+293,electronic,93,/content/electronic/93.mp3,Solar Cycle,Flare,Devil in Love,6YUjsOAkT8RHg7N2XQQPWl,0.693,0.804,5,-6.857,1,0.0606,0.024,0.767,0.111,0.571,125.005
+294,electronic,94,/content/electronic/94.mp3,Solar Cycle,Flare,Flying,55YdMK0PYqSBrjbmSw6Ssm,0.589,0.976,4,-3.515,0,0.0565,0.00771,0.871,0.173,0.155,125
+295,electronic,95,/content/electronic/95.mp3,Solar Cycle,Flare,Easter,0kYv7SYxA3HzVHps3lthfb,0.532,0.762,7,-5.827,0,0.0303,0.433,0.526,0.0795,0.0392,90.034
+296,electronic,96,/content/electronic/96.mp3,Solar Cycle,Flare,Frequencies,1AUVP4IrqwSUVEr0p2KnOf,0.535,0.951,4,-5.4,0,0.0417,0.132,0.264,0.127,0.365,124.963
+297,electronic,97,/content/electronic/97.mp3,Solar Cycle,Flare,Night to Remember,5drX31P78MzDuZQBxndL4d,0.548,0.836,0,-4.456,0,0.0867,0.00237,0.278,0.127,0.138,124.981
+298,electronic,98,/content/electronic/98.mp3,Solar Cycle,Flare,Smooth Guitar,4YbZ72hjKW8DICqsMu7KlT,0.61,0.823,0,-2.982,1,0.0743,0.000363,0.363,0.125,0.872,124.992
+299,electronic,99,/content/electronic/99.mp3,Solar Cycle,Flare,Viento,3A2LodhQeUWJbc2qqZldvM,0.487,0.788,9,-5.7,0,0.0307,0.654,0.937,0.159,0.202,160.015
+300,electronic,100,/content/electronic/100.mp3,Mantic,Eponyms,Shura Remix (Deadpan Escapement vinyl only release),4H0gta6IBb9vkE9En9qV6P,0.778,0.89,0,-9.71,1,0.0686,3.18E-05,0.925,0.0607,0.558,141.876
+301,pop,1,/content/pop/1.mp3,Brad Senne,Brad Senne,Beyond Late,6zca0rbaTNFpsdI3X7H5VC,0.542,0.361,10,-10.862,0,0.0281,0.855,0.00154,0.0963,0.558,104.846
+302,pop,2,/content/pop/2.mp3,Michael Joy,River Of Days,To Climb,6wzk3fSXxrIKZ8iFrjobzk,0.63,0.625,5,-7.869,1,0.0283,0.569,7.27E-06,0.171,0.553,87.866
+303,pop,3,/content/pop/3.mp3,Norine Braun,Crow,Salem,2vxBwUaWVwy2xUGJda20FA,0.615,0.468,2,-10.187,1,0.0414,0.0968,2.12E-05,0.109,0.227,130.085
+304,pop,4,/content/pop/4.mp3,Norine Braun,Miles to Go,Persephone,7G0o0XzwXMwxiUyouXuSqZ,0.518,0.536,5,-9.146,0,0.0303,0.34,0.000495,0.185,0.401,112.095
+305,pop,5,/content/pop/5.mp3,Shane Jackman,Sanctuary,Sanctuary ,1IqARIYJASvO0aMqMPFgbn,0.327,0.226,9,-13.856,0,0.0511,0.868,0,0.111,0.304,200.826
+306,pop,6,/content/pop/6.mp3,John Jackson,Bad Things Happen All The Time,Fifteen Minutes,1vOaRX2exhwMAXbKBOY1IH,0.429,0.495,9,-10.182,1,0.03,0.108,1.02E-05,0.272,0.604,176.104
+308,pop,8,/content/pop/8.mp3,C Layne,VI,The Alkonost,7dcnkKpvOPhRiwtXwa02Tx,0.587,0.0957,0,-15.316,1,0.0283,0.926,0.00872,0.0909,0.0398,90.018
+309,pop,9,/content/pop/9.mp3,Falling You,Faith,A Warning to Giants,289TxFOFcB5BBOBIDqGRhZ,0.285,0.0782,10,-22.666,1,0.036,0.84,0.277,0.115,0.0363,101.691
+311,pop,11,/content/pop/11.mp3,Artemis,Orbits,Fountain of Life (Lean On It Mix) - DJ Anser,0Lx0ZLEuLyF62EgznWHBup,0.474,0.716,1,-7.874,1,0.0347,0.00729,0.817,0.0712,0.637,170.11
+312,pop,12,/content/pop/12.mp3,Beight,File In Rhythm,Invisible City,6a4568McP0rLvZajcbhu3L,0.511,0.677,11,-5.259,1,0.0299,0.0578,0.00109,0.0953,0.151,112.025
+313,pop,13,/content/pop/13.mp3,Beight,File In Rhythm,File in Rhythm,7g2s3zE1ghARQGOm0aVwOI,0.608,0.851,5,-4.126,1,0.034,0.0284,2.03E-06,0.241,0.719,128.218
+314,pop,14,/content/pop/14.mp3,C Layne,Potemkin Villages,You are the reason,74UzqB9KbZmS9qLCKw5J2Q,0.41,0.44,9,-13.824,1,0.0457,0.912,0.207,0.142,0.348,120.186
+315,pop,15,/content/pop/15.mp3,Beight,File In Rhythm,Ghostly Feeling,2s6nqtceLIaGDr3yFfn42r,0.563,0.369,5,-10.414,1,0.0299,0.244,0.000214,0.0885,0.567,121.81
+316,pop,16,/content/pop/16.mp3,Curl,Ultimate Station,Fly Free,6XEIAQMtK4XF7jKg72aT3q,0.711,0.845,5,-11.49,0,0.0389,0.16,0.0382,0.0991,0.458,92.024
+317,pop,17,/content/pop/17.mp3,DJ Cary,Downtempo Chill 2,Calm (Ammonite),1WkmiAiOnvigKAk7c2g9Iz,0.521,0.56,9,-6.229,0,0.0244,0.404,0.00304,0.137,0.186,79.986
+318,pop,18,/content/pop/18.mp3,DJ Cary,Power Synths,Call me Snake (Dr Kuch),4bEKgERzLA7AZ9HBQXnwS9,0.526,0.666,5,-9.328,0,0.0255,0.149,0.914,0.104,0.188,139.976
+319,pop,19,/content/pop/19.mp3,Falling You,Human,Destiny Trip,1iTfAtUoxVAgSwhv9KDN74,0.418,0.366,5,-15.162,0,0.0471,0.544,0.176,0.0813,0.0554,179.934
+320,pop,20,/content/pop/20.mp3,Falling You,Touch,something about eve ,6Gzf5FOCFLW3WHJrgFaDPb,0.231,0.422,0,-17.242,0,0.0472,0.553,0.807,0.0852,0.0398,115.026
+321,pop,21,/content/pop/21.mp3,Five Star Fall,Automatic Ordinary,Mercurial Girl,4AlR7sQxfJbCbPXfZU7uWj,0.282,0.845,4,-7.186,1,0.069,0.0029,6.88E-06,0.276,0.424,71.364
+322,pop,22,/content/pop/22.mp3,Four Stones,Chronic Dreams,Brilliant Day (Chronic Mix),7FSppBG01PYoX9Lb9g0uii,0.578,0.278,3,-15.74,0,0.0744,0.89,0.00326,0.107,0.227,83.039
+323,pop,23,/content/pop/23.mp3,Four Stones,La Vie Chill,Till My Cup Runs Over,4SUFZRphiVMaqNB8E2vg2P,0.747,0.481,8,-13.614,0,0.0621,0.0579,0.553,0.342,0.795,82.027
+324,pop,24,/content/pop/24.mp3,John Jackson,Bad Things Happen All The Time,Fire,7FUZ7NWGdzW1Pp0vGk5Rrk,0.605,0.445,3,-13.023,0,0.0342,0.669,0.685,0.142,0.253,120.038
+326,pop,26,/content/pop/26.mp3,Lisa DeBenedictis,Mixter One,Below-DU-remix by deutscheunschuld,6bayf7gg9XDMWutNrc120N,0.782,0.618,5,-6.333,0,0.167,0.0226,0.0412,0.106,0.491,170.031
+327,pop,27,/content/pop/27.mp3,Lisa DeBenedictis,Tigers,Tigers,67mzU5tiOgoVBpPnSwFyQ4,0.526,0.319,7,-12.932,1,0.0302,0.848,7.89E-05,0.0712,0.356,81.977
+328,pop,28,/content/pop/28.mp3,Magnatune Remixed,Ridin the Faders 2,Shining Star Games (Az Egan Csillag Lenni) - Fourstones,0TJXIlBUZK22kn4MVhxUa2,0.781,0.709,8,-6.861,1,0.0462,0.355,0.0988,0.158,0.697,105.994
+329,pop,29,/content/pop/29.mp3,Anamar,Transfado,Pais oceano (Ocean Country),2ztDKcPLJyAnY2FDu83JTV,0.416,0.354,0,-10.699,0,0.0335,0.902,0.000833,0.0976,0.545,99.63
+331,pop,31,/content/pop/31.mp3,Mercy Machine,In Your Bed,Fountain Street,2QcL4MtdsPRVTnlSaLgXvj,0.536,0.259,9,-13.327,1,0.0328,0.518,0.227,0.118,0.0899,112.274
+332,pop,32,/content/pop/32.mp3,Mercy Machine,Mercy Machine,Bastard,4UMod3yIDoRIyG5kwzMfIF,0.456,0.582,4,-10.277,1,0.0451,0.214,0.000177,0.16,0.634,75.006
+333,pop,33,/content/pop/33.mp3,Mercy Machine,The Devil I Know,30 Years,1Tu76wEjhg83rBZ4PIRPoW,0.673,0.836,2,-8.804,1,0.0391,0.103,0.387,0.076,0.793,125.233
+334,pop,34,/content/pop/34.mp3,Minstrel Spirit,Enter The Woods,The lonely minstrel part 1 (edited version),7oarNp1oqoQ5NXmQ7HP01X,0.432,0.382,0,-11.558,1,0.0366,0.649,1.11E-06,0.104,0.612,143.973
+335,pop,35,/content/pop/35.mp3,Norine Braun,and the Mood Swings,Frontliner Blues,1doWNbUKskRhj8IShKvoRm,0.553,0.719,6,-8.201,0,0.051,0.154,2.36E-06,0.131,0.939,128.673
+336,pop,36,/content/pop/36.mp3,Norine Braun,Modern Anguish,Modern Anguish,4TdZv11HT0yWlC214I11yb,0.61,0.821,6,-10.566,0,0.0618,0.418,4.26E-06,0.0711,0.503,133.01
+337,pop,37,/content/pop/37.mp3,Norine Braun,Now and Zen,Jade,2R7EuaiSezBD50SOBVnVF7,0.463,0.334,6,-11.631,0,0.0312,0.187,1.36E-05,0.125,0.265,89.925
+338,pop,38,/content/pop/38.mp3,Plunkett,14 Days,The River,005afuxpF5QrVXMthwzpW8,0.259,0.47,2,-10.168,1,0.0334,0.801,0.000157,0.121,0.432,83.023
+339,pop,39,/content/pop/39.mp3,Four Stones,La Vie Chill,Laying Down Lounge,1L38YNd5ItRpIL3oKlEJQI,0.557,0.348,0,-17.157,1,0.0546,0.0557,0.798,0.0969,0.481,170.033
+340,pop,40,/content/pop/40.mp3,Self Delusion,Happiness Hurts Me,Excerpt From Alice,4Vd4bl2mqGDDdoQVsFK4ug,0.462,0.5,7,-11.506,0,0.0855,0.237,0.353,0.244,0.252,96.691
+341,pop,41,/content/pop/41.mp3,Sun Palace,Give Me a Perfect World,Give Me a Perfect World,5g12XmtVI1pfyIMavLAcGj,0.502,0.447,5,-11.152,1,0.0292,0.204,0,0.109,0.692,100.017
+342,pop,42,/content/pop/42.mp3,Sun Palace,Into Heaven,Into Heaven ,1itSE21FYivCPSIvSIPNuA,0.456,0.601,7,-10.276,1,0.0288,0.633,0.000745,0.0867,0.419,134.932
+346,pop,46,/content/pop/46.mp3,TranceVision,Lemuria,Enertia,0v9Syhs24QIaMlNvgluq3W,0.382,0.712,9,-6.583,0,0.0322,0.0432,0.448,0.107,0.373,139.805
+347,pop,47,/content/pop/47.mp3,Williamson,A few things to hear before we all blow up,2 percent er,5hMXF2auMtjODFnV9Tq8iz,0.568,0.689,2,-8.92,1,0.0367,0.0546,0.787,0.27,0.482,160.349
+348,pop,48,/content/pop/48.mp3,Yongen,Moonrise,Moonrise,6X7ru5ho6snrCBNj4oS2rV,0.635,0.669,4,-7.075,0,0.0251,0.0453,0.482,0.256,0.541,108.988
+349,pop,49,/content/pop/49.mp3,Yongen,Yello Haus,Rise,2yp3zMZ6YwANc4osXZ0EaT,0.437,0.862,8,-2.695,1,0.0389,0.00299,6.30E-05,0.1,0.299,166.002
+350,pop,50,/content/pop/50.mp3,Michael Joy,Float,River of Light,7Df1TTG6nB0677I4guMSk3,0.662,0.434,1,-11.344,0,0.0256,0.433,0.00423,0.106,0.476,108.947
+351,pop,51,/content/pop/51.mp3,Michael Joy,Float,Between The Lies,6eaEmktiQTDpCMvErZT4l7,0.55,0.475,9,-9.396,1,0.0249,0.0163,0.00992,0.104,0.284,97.003
+352,pop,52,/content/pop/52.mp3,Norine Braun,Crow,Slipping into Violet,3DkWATTGfzcCB8a1QO353b,0.765,0.0865,7,-16.233,1,0.0486,0.959,0.000599,0.107,0.213,124.002
+353,pop,53,/content/pop/53.mp3,Norine Braun,Miles to Go,Wounded Little Bird,3qt2h7fUjzs2ahBkuA7d0k,0.556,0.213,5,-12.261,0,0.0363,0.819,6.01E-05,0.118,0.266,123.704
+354,pop,54,/content/pop/54.mp3,Williamson,A few things to hear before we all blow up,rubber,5s0OTIsI9kQoSR73z40rAO,0.73,0.775,11,-10.519,0,0.0394,0.0293,0.81,0.248,0.643,119.984
+355,pop,55,/content/pop/55.mp3,Sun Palace,Into Heaven,There Once Was A Time ,3tRPZ6m7FLcEgeZQ7C831g,0.46,0.683,5,-8.312,1,0.0259,0.0895,0.00291,0.103,0.482,80.008
+356,pop,56,/content/pop/56.mp3,C Layne,VI,The Collider,3OiUtsgDUO7DqsObIV4gp0,0.697,0.319,11,-14.762,0,0.0513,0.891,0.395,0.0947,0.396,79.957
+357,pop,57,/content/pop/57.mp3,Sun Palace,Give Me a Perfect World,Round and Round,0zU0JBMNoJ7M9a81XDMfZ0,0.474,0.685,0,-5.599,1,0.0262,0.0745,0,0.118,0.656,102.032
+358,pop,58,/content/pop/58.mp3,Self Delusion,Happiness Hurts Me,Unemotional,7vbZw1dIpC9GzIXyIRMnOT,0.648,0.896,5,-7.602,0,0.0364,0.0355,0.32,0.0564,0.808,133.006
+359,pop,59,/content/pop/59.mp3,Norine Braun,and the Mood Swings,Give Me Love,63l3gQQW4gLYmV77bAICKb,0.437,0.71,7,-7.486,1,0.0343,0.583,0,0.0926,0.618,117.394
+360,pop,60,/content/pop/60.mp3,Artemis,Orbits,Charming Gun (Vibe Me Mix) - Nautilis,4wHxvYuzywJBpBxzlseTwe,0.718,0.619,5,-7.293,0,0.403,0.348,0.0516,0.067,0.722,174.791
+361,pop,61,/content/pop/61.mp3,Artemis,Undone,Changing Sky,46Nq5cMzPrp5rxsdN6D0ao,0.659,0.754,7,-6.908,0,0.0487,0.327,1.14E-05,0.148,0.406,110.978
+362,pop,62,/content/pop/62.mp3,Beight,File In Rhythm,Parallels,17QIBET7gAmQLM4hkRS6QU,0.547,0.802,11,-3.576,0,0.0379,0.0156,1.02E-05,0.297,0.719,147.969
+363,pop,63,/content/pop/63.mp3,Plunkett,14 Days,Up A Hill,03BRAnYHRKPEbeA9lgJVQ3,0.679,0.398,4,-8.537,1,0.0432,0.19,0,0.286,0.78,85.004
+364,pop,64,/content/pop/64.mp3,C Layne,The Sun Will Come Out to Blind You,Just My Luck,2uOxABY87YtHwZqpz2XlXK,0.586,0.517,9,-12.918,1,0.0325,0.599,0.686,0.194,0.492,130.03
+365,pop,65,/content/pop/65.mp3,Norine Braun,Now and Zen,Now and Zen,3X3Mv2MzOEyHnyNm8xFxyu,0.544,0.486,9,-11.264,1,0.034,0.0245,0.0197,0.23,0.449,159.989
+366,pop,66,/content/pop/66.mp3,Norine Braun,and the Mood Swings,Give Me Love,63l3gQQW4gLYmV77bAICKb,0.437,0.71,7,-7.486,1,0.0343,0.583,0,0.0926,0.618,117.394
+367,pop,67,/content/pop/67.mp3,Mercy Machine,In Your Bed,My Joan Of Arc,7ySd10jpIqjAn4ibd3GFkM,0.213,0.281,2,-12.38,1,0.0306,0.554,0.00294,0.108,0.062,150.566
+368,pop,68,/content/pop/68.mp3,Michael Joy,River Of Days,Night Flight Over Water,2PFsw9mHIqucYGbGNymezS,0.504,0.792,2,-6.817,1,0.0305,0.346,0.000649,0.114,0.939,199.891
+369,pop,69,/content/pop/69.mp3,Magnatune Remixed,Ridin the Faders 2,Brilliant Daze (Days Are Confused Mix) - Pat Chilla,4eKJbAMbAq46LlR9MXZBsm,0.746,0.689,6,-10.449,1,0.0345,0.00581,0.0294,0.104,0.87,100.005
+370,pop,70,/content/pop/70.mp3,Lisa DeBenedictis,Tigers,Below,78EwtjBcbw9hr3ohKlBi6t,0.607,0.312,10,-14.913,1,0.0372,0.947,0.457,0.11,0.193,139.941
+371,pop,71,/content/pop/71.mp3,Five Star Fall,Automatic Ordinary,What Planet Are We On,07AJckV3u1hj2Gibc40DR6,0.594,0.672,5,-9.135,0,0.0832,0.00157,0.000113,0.109,0.805,143.105
+373,pop,73,/content/pop/73.mp3,Norine Braun,and the Mood Swings,Wounded Little Bird,07NgtAas2v3pKUrwPczbnQ,0.64,0.382,1,-10.062,1,0.0303,0.644,1.96E-06,0.119,0.399,126.47
+374,pop,74,/content/pop/74.mp3,Beight,File In Rhythm,In The Middle,3McM1V9xNzITbVytG9y1eT,0.4,0.314,7,-9.364,0,0.0296,0.711,0.00447,0.206,0.408,127.432
+375,pop,75,/content/pop/75.mp3,Arthur Yoria,Handshake Smiles,Clean For Free,1hQ7TyjyXWbqzVieZlAMoJ,0.59,0.661,6,-5.775,1,0.0333,0.192,0,0.0941,0.493,121.579
+377,pop,77,/content/pop/77.mp3,Beight,File In Rhythm,Fill Me Up,6nYY5PqeHZxS36eN6DFihX,0.453,0.911,10,-2.717,1,0.0443,0.0093,1.15E-05,0.218,0.277,111.985
+378,pop,78,/content/pop/78.mp3,Arthur Yoria,Handshake Smiles,Handshake Smiles,7jRLFgMTbRmNzkoPcpD9So,0.394,0.728,7,-5.625,1,0.0318,0.124,0,0.525,0.489,159.274
+379,pop,79,/content/pop/79.mp3,Norine Braun,and the Mood Swings,No More,0118oVZr9LrqE8SbNscz7n,0.267,0.724,7,-6.451,1,0.137,0.38,0.000112,0.177,0.836,74.586
+381,pop,81,/content/pop/81.mp3,Arthur Yoria,Handshake Smiles,Jimmy's Rig,5mw1R0uYpQ2U2nvpNMttjc,0.501,0.0898,2,-19.545,0,0.0325,0.951,0.0207,0.158,0.177,134.073
+382,pop,82,/content/pop/82.mp3,Beight,File In Rhythm,Don't Do Me No Harm,67AVln8MWzh6uBEMxBippa,0.583,0.722,0,-4.537,0,0.0273,0.0407,0.0285,0.0895,0.774,129.208
+384,pop,84,/content/pop/84.mp3,Norine Braun,and the Mood Swings,Fools,5aeb9OZ5BRoqlaZZPb5ruZ,0.545,0.554,2,-7.941,1,0.0278,0.745,7.56E-06,0.171,0.604,98.654
+385,pop,85,/content/pop/85.mp3,Arthur Yoria,Handshake Smiles,Love Song in G,2IQ2fup66YiG4vdMyHKu7b,0.527,0.869,8,-3.43,1,0.0322,0.000616,0.00765,0.0833,0.415,119.434
+386,pop,86,/content/pop/86.mp3,Anamar,Transfado,Ovelha negra (Black sheep),0Ig56bTNPA7fq9BAKk1Hsy,0.595,0.32,2,-9.917,0,0.0324,0.867,8.29E-05,0.166,0.501,121.976
+387,pop,87,/content/pop/87.mp3,Beight,File In Rhythm,Get What You Want?,3DuL0N4KeYMUPvFo1XGCZI,0.534,0.942,9,-5.279,0,0.0412,0.00767,0.00348,0.101,0.188,124.499
+388,pop,88,/content/pop/88.mp3,Anamar,Transfado,O Pobre (The Pauper),3V6IduaHy6yVX3VbXpJKoZ,0.597,0.366,2,-10.143,0,0.0508,0.761,2.60E-05,0.0768,0.437,139.914
+389,pop,89,/content/pop/89.mp3,Norine Braun,and the Mood Swings,One Breath,66xnEwq2wo5NzRPaZtg7vX,0.64,0.527,2,-8.438,1,0.0339,0.445,0,0.0898,0.792,124.706
+390,pop,90,/content/pop/90.mp3,Arthur Yoria,Handshake Smiles,Cuttin a Rug,2ufNwAztfLKxl5rLCMlof1,0.464,0.743,11,-3.526,1,0.0366,0.146,2.96E-05,0.243,0.53,121.779
+391,pop,91,/content/pop/91.mp3,Beight,File In Rhythm,Superhero Song,6aiXfd2imxG8nRJOkCW5cs,0.481,0.917,6,-4.533,1,0.0348,0.00269,0.00656,0.156,0.457,74.984
+393,pop,93,/content/pop/93.mp3,Beight,File In Rhythm,Without Warning,0Z4oHi8z11zchn6O2lXkWa,0.522,0.255,1,-13.003,1,0.0336,0.705,0.604,0.108,0.325,128.409
+394,pop,94,/content/pop/94.mp3,Norine Braun,and the Mood Swings,Cruel Streak,6DP6DRBKUMPBWhEYI1UzJE,0.553,0.89,9,-6.549,1,0.079,0.04,4.33E-06,0.189,0.81,121.462
+395,pop,95,/content/pop/95.mp3,Arthur Yoria,Handshake Smiles,Sandy,1FoocR3cF7lqedFUnaaqD1,0.499,0.83,7,-2.979,1,0.0339,0.297,0,0.24,0.592,123.221
+397,pop,97,/content/pop/97.mp3,Norine Braun,and the Mood Swings,Devil's Daughter,3zdnNQ7KUBC8ajSgG8x9Q0,0.368,0.646,7,-7.103,1,0.0294,0.00518,0.00267,0.164,0.352,146.375
+398,pop,98,/content/pop/98.mp3,Arthur Yoria,Handshake Smiles,I Told You Not to Write Again,5ZZrvlmfGdEzDKh4vl8234,0.495,0.818,11,-3.452,1,0.0336,0.0161,1.87E-06,0.047,0.541,123.265
+399,pop,99,/content/pop/99.mp3,Beight,File In Rhythm,Junior High Smiles,1KnSKAAY6zeJxNfbsTYRW2,0.515,0.472,11,-7.927,1,0.0281,0.59,0.647,0.105,0.338,109.706
+400,pop,100,/content/pop/100.mp3,Norine Braun,and the Mood Swings,The One That Got Away,2MZMusFPpultl7zAuHnrkF,0.408,0.672,9,-7.846,0,0.0341,0.253,1.09E-06,0.102,0.373,127.954
